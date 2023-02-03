@@ -9,21 +9,21 @@ menu-index: 5
 ## Organization
 
 General chairs:  
-    **Markus Fiedler**,   BTH, Sweden
+    **Markus Fiedler**,   BTH, Sweden  
     **Michela Meo**, Politecnico di Torino, Italy
  
 TPC chairs:  
-    **Zhiyuan Jiang**, China
-    **Sara Alouf**, INRIA, France
-    **Oliver Hohlfeld**, University of Kassel, Germany
+    **Zhiyuan Jiang**, China  
+    **Sara Alouf**, INRIA, France         
+    **Oliver Hohlfeld**, University of Kassel, Germany   
  
 Local arrangement:  
-        **Daniela Renga*, Politecnico di Torino, Italy
-        **Greta Vallero**, Politecnico di Torino, Italy
+        **Daniela Renga**, Politecnico di Torino, Italy  
+        **Greta Vallero**, Politecnico di Torino, Italy  
  
 Publicity chairs:  
-        **Martino Trevisan**, Università di Trieste, Italy
-        NN, **Yuxuan Sun** (BJTU) (for China)
+        **Martino Trevisan**, Università di Trieste, Italy  
+        NN, **Yuxuan Sun** (BJTU) (for China)  
  
 Web chair:  
-        **Gianluca Perna**, Politecnico di Torino, Italy 
+        **Gianluca Perna**, Politecnico di Torino, Italy   
