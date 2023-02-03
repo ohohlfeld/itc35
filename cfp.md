@@ -23,7 +23,7 @@ Important Dates:
 
 {% capture dates %} {% include important_dates.md %} {% endcapture %} {{ dates | markdownify }}
 
-Both full papers and short papers are welcome. Submission instructions can be found at the conference website: https://itc35.itc-conference.org/authors.html
+Both full papers and short papers are welcome. Submission instructions can be found at the [**conference website**](https://itc35.itc-conference.org/authors.html)
 
 For any questions do not hesitate to contact the conference organization under **itc35_oc@tlc.polito.it**.
 
