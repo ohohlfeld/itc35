@@ -1,6 +1,6 @@
-March 4, 2023: Paper Registration<br/>
-March 11, 2019: Submission deadline<br/>
-May 13, 2019: Expected notification date<br/>
-June 10, 2019: Camera ready copy deadline<br/>
-June 17, 2019: Author registration deadline<br/>
-August 27-29, 2019: Conference Date
+May 23, 2023: Paper Registration<br/>
+May 30, 2023: Submission deadline<br/>
+Jul 16, 2023: Expected notification date<br/>
+Aug 16, 2023: Camera ready copy deadline<br/>
+- -, -: Author registration deadline<br/>
+- -, -: Conference Date
