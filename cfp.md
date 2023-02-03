@@ -28,5 +28,6 @@ Both full papers and short papers are welcome. Submission instructions can be fo
 
 For any questions do not hesitate to contact the conference organization under **itc35_oc@tlc.polito.it**.
 
-Best Regards,
+
+Best Regards,  
 ITC 35 Organizing Team
