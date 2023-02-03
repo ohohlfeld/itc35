@@ -21,10 +21,7 @@ Topics ITC 35 covers topics in the areas of:
 
 Important Dates
 
-May 23, 2023: Paper registration deadline
-May 30, 2023: Paper submission deadline
-Jul 16, 2023: Notification date
-Aug 16, 2023: Camera-ready paper and author registration deadline
+{% capture dates %} {% include important_dates.md %} {% endcapture %} {{ dates | markdownify }}
 
 Both full papers and short papers are welcome. Submission instructions can be found at the conference website: https://itc35.itc-conference.org/authors.html
 
