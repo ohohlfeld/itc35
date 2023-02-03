@@ -5,6 +5,7 @@ menu-index: 3
 ---
 
 # Call for Papers
+Call for Papers
 
 The International Teletraffic Congress (ITC) 35, to be held October 3-5, 2023 at Politecnico di Torino, Italy, is the 35th edition of this international flagship congress in the field of networking science and practice. ITC was founded back in 1955 by enthusiastic scientists and engineers who were willing to deploy networks in a holistic way. Since then, it has established a multi-decade tradition as the primary forum for presenting and discussing the latest technical advances in the broad areas of teletraffic models, network systems, and measurements. 
 
@@ -18,4 +19,19 @@ Topics ITC 35 covers topics in the areas of:
     Network Measurements and Big Data
     Networking Architectures and Paradigms
     Wireless and Cellular Networks
-![image](https://user-images.githubusercontent.com/49552003/216562508-5adc932b-0917-4d3c-b508-218c7d95edb4.png)
+
+Important Dates
+
+May 23, 2023: Paper registration deadline
+May 30, 2023: Paper submission deadline
+Jul. 16, 2023: Notification date
+Aug. 16, 2023: Camera-ready paper and author registration deadline
+
+Both full papers and short papers are welcome. Submission instructions can be found at the conference website: https://itc35.itc-conference.org/authors.html
+
+For any questions do not hesitate to contact the conference organization under itc35_oc@tlc.polito.it.
+
+Best Regards,
+ITC 35 Organizing Team
+![image](https://user-images.githubusercontent.com/49552003/216562877-2e392284-55a7-45e1-9ee2-ea7ec049629f.png)
+
