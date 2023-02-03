@@ -12,12 +12,12 @@ ITC 35 solicits cutting-edge papers spanning both theory and experimentation in 
 
 
 
-Topics ITC 35 covers **topics** in the areas of:
+Topics ITC 35 covers in the areas of:
 
-###      - Performance Evaluation, Control and Optimization
-###      - Network Measurements and Big Data
-###      - Networking Architectures and Paradigms
-###      - Wireless and Cellular Networks
+*      **Performance Evaluation, Control and Optimization**
+*      **Network Measurements and Big Data**
+*      **Networking Architectures and Paradigms**
+*      **Wireless and Cellular Networks**
 
 
 ## Important Dates:
