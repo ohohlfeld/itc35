@@ -30,4 +30,4 @@ For any questions do not hesitate to contact the conference organization under *
 
 
 Best Regards,  
-ITC 35 Organizing Team
+**ITC 35 Organizing Team**
