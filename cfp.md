@@ -14,10 +14,10 @@ ITC 35 will offer a number of student travel grants to support full-time student
 
 Topics ITC 35 covers **topics** in the areas of:
 
-###### Performance Evaluation, Control and Optimization
-###### Network Measurements and Big Data
-###### Networking Architectures and Paradigms
-###### Wireless and Cellular Networks
+####   - Performance Evaluation, Control and Optimization
+####   - Network Measurements and Big Data
+####   - Networking Architectures and Paradigms
+####   - Wireless and Cellular Networks
 
 Important Dates:
 
