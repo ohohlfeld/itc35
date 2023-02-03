@@ -20,6 +20,7 @@ The Student Advisor must declare that additional expenses to attend the conferen
 
 If selected, the Student commits to send within two weeks after {{ site.conference-name }} a **two-page report** highlighting the benefits of having attended {{ site.conference-name }}, in terms of impact on his/her own research, of overall technical knowledge increase, and on technical exchanges and potential collaboration with other attendees.
 
+
 ### Important dates
 Registration is open from **TODO**<br/>
 Application submission deadline: **TODO**<br/>
