@@ -3,9 +3,9 @@
 # Still, make sure to use {{ site.baseurl }} when using absolute paths.
 baseurl: ""
 
-title: "ITC 35"
-conference-number: "35"
-conference-name: "ITC 35"
+title: "ITC 35th"
+conference-number: "35th"
+conference-name: "ITC 35th"
 conference-subname: "Networked Systems and Services"
 conference-date: "3 - 5 October 2023"
 conference-location: "Turin"
