@@ -9,7 +9,7 @@ conference-name: "ITC 35th"
 conference-subname: "Networked Systems and Services"
 conference-date: "3 - 5 October 2023"
 conference-location: "Turin"
-conference-location-detail: ["Politecnico di Torino, Italy"](https://www.polito.it/)
+conference-location-detail: "Politecnico di Torino, Italy"
 conference-domain: "https://itc35.itc-conference.org"
 conference-mail: "itc35@lists.i-teletraffic.org"
 
