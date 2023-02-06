@@ -9,11 +9,11 @@ menu-index: 5
 ## Organization
 
 General chairs:  
-   + **Markus Fiedler**,   BTH, Sweden  
+   + **Markus Fiedler**, Blekinge Tekniska Högskola, Sweden  
    + **Michela Meo**, Politecnico di Torino, Italy
  
 TPC chairs:  
-   + **Zhiyuan Jiang**, China  
+   + **Zhiyuan Jiang**, Tsinghua University, China  
    + **Sara Alouf**, INRIA, France         
    + **Oliver Hohlfeld**, University of Kassel, Germany   
  
