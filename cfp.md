@@ -12,7 +12,7 @@ ITC 35 solicits cutting-edge papers spanning both theory and experimentation in 
 
 
 
-Topics ITC 35 covers in the areas of:
+ITC 35 covers topics in the areas of:
 
 *      **Performance Evaluation, Control and Optimization**
 *      **Network Measurements and Big Data**
@@ -28,6 +28,3 @@ Both full papers and short papers are welcome. Submission instructions can be fo
 
 For any questions do not hesitate to contact the conference organization under **itc35_oc@tlc.polito.it**.
 
-
-Best Regards,  
-**ITC 35 Organizing Team**
