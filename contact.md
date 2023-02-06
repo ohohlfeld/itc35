@@ -9,4 +9,3 @@ menu-index: 8
 You can reach us in the following ways:
 
 * Via e-mail at <mailto:{{ site.conference-mail }}>
-* **TODO**
