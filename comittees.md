@@ -23,7 +23,7 @@ Local arrangement:
  
 Publicity chairs:  
    + **Martino Trevisan**, Università di Trieste, Italy  
-   + NN, **Yuxuan Sun** (BJTU) (for China)  
+   + **Yuxuan Sun**,  Beijing Jiaotong University, China 
  
 Web chair:  
    + **Gianluca Perna**, Politecnico di Torino, Italy   
