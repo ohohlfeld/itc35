@@ -15,7 +15,7 @@ menu-index: 2
 
 ## Author registration
 
-For your paper to be included in the final programme and to be published in the {{ site.conference-name }} Proceedings, at least 1 author needs to register before the deadline of **TODO DEADLINE** at full rate. Papers not covered by any registration by that deadline will automatically be removed from the final programme.
+For your paper to be included in the final programme and to be published in the {{ site.conference-name }} Proceedings, at least 1 author needs to register before the deadline (still to be defined) at full rate. Papers not covered by any registration by that deadline will automatically be removed from the final programme.
 
 ## Open access
 
