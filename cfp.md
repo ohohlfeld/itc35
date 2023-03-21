@@ -15,21 +15,77 @@ ITC 35 solicits cutting-edge papers spanning both theory and experimentation in 
 ITC 35 covers topics in the areas of:
 
 
-* **Big data analytics and machine learning for network & traffic measurements analysis**
-* **Application of Big Data frameworks (streaming, batch) to network data**
-* **Novel or better algorithms for topology discovery, network tomography, etc.**
-* **Measurement-driven network simulation methodologies**
-* **Performance models from network measurements**
-* **Network performance measurements and analysis**
-* **Traffic & workload modeling, traffic generation techniques**
-* **User characterization and modeling**
-* **Quality-of-Service and Quality-of-Experience**
-* **Application layer measurement methodologies and characterization**
-* **Traffic classification, evasion and deanonymization**
-* **Network anomaly detection and diagnosis**
-* **Measurements for network security and forensics**
-* **Measurements for privacy quantification, and privacy-preserving measurements**
+Area 1: **Performance Evaluation, Control and Optimization**
+Topics: 
+* Computer and communication networks, protocols and algorithms
+* Wireless, mobile, ad-hoc and sensor networks, IoT applications
+* Virtualization, data centers, distributed and cloud computing
+* Mobile and personal computing systems
+* Energy-efficient computing systems
+* Real-time and fault-tolerant systems
+* Social networks, multimedia systems, service-oriented architectures and Web services
+* Smart power grids and other cyber-physical systems
+* Emerging technologies
+* Analytical modeling techniques and model validation
+* Workload characterization and benchmarking
+* Performance, scalability, power and reliability analysis
+* Sustainability analysis and power management
+* System measurement, performance monitoring and forecasting
+* Anomaly detection, problem diagnosis and trouble-shooting
+* Capacity planning, resource allocation, run time management and scheduling
+* Quality of service, total cost of ownership and pricing
 
+Area 2: **Network Measurements and Big Data**
+Topics: 
+* Big data analytics and machine learning for network & traffic measurements analysis
+* Application of Big Data frameworks (streaming, batch) to network data
+* Novel or better algorithms for topology discovery, network tomography, etc.
+* Measurement-driven network simulation methodologies
+* Performance models from network measurements
+* Network performance measurements and analysis
+* Traffic & workload modeling, traffic generation techniques
+* User characterization and modeling
+* Quality-of-Service and Quality-of-Experience
+* Application layer measurement methodologies and characterization
+* Traffic classification, evasion and deanonymization
+* Network anomaly detection and diagnosis
+* Measurements for network security and forensics
+* Measurements for privacy quantification, and privacy-preserving measurements
+
+Area 3: **Networking Architectures and Paradigms**
+Topics: 
+* Software Defined Networking
+* Network Function Virtualization
+* Information and Content-centric networks
+* Named data networking
+* Energy efficiency
+* Network security
+* Programmable data planes
+* Applications of SDN and NFV
+* Network virtualization
+
+Area 4: **Wireless and Cellular Networks**
+Topics: 
+* 5G communications and architectures
+* Internet of Things
+* Age of information
+* Dynamic spectrum access/cognitive radio
+* Game-theoretic/economic models
+* Green (energy-efficient) wireless communications
+* IEEE802.11x
+* Mesh networks
+* Mobile ad-hoc networks
+* Mobile computing services
+* Radio resource allocation/management
+* Spectrum auctions/management
+* Self-organizing networks
+* Small and ultra-dense cells
+* Scheduling mechanisms
+* Software defined wireless networks
+* Traffic model, characterization and measurements
+* Vehicular communications
+* Wireless multiaccess and communication
+* Wireless sensors
 
 ## Important Dates:
 
