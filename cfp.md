@@ -16,7 +16,6 @@ ITC 35 covers topics in the areas of:
 
 
 Area 1: **Performance Evaluation, Control and Optimization**
-Topics: 
 * Computer and communication networks, protocols and algorithms
 * Wireless, mobile, ad-hoc and sensor networks, IoT applications
 * Virtualization, data centers, distributed and cloud computing
@@ -36,7 +35,6 @@ Topics:
 * Quality of service, total cost of ownership and pricing
 
 Area 2: **Network Measurements and Big Data**
-Topics: 
 * Big data analytics and machine learning for network & traffic measurements analysis
 * Application of Big Data frameworks (streaming, batch) to network data
 * Novel or better algorithms for topology discovery, network tomography, etc.
@@ -53,7 +51,6 @@ Topics:
 * Measurements for privacy quantification, and privacy-preserving measurements
 
 Area 3: **Networking Architectures and Paradigms**
-Topics: 
 * Software Defined Networking
 * Network Function Virtualization
 * Information and Content-centric networks
@@ -64,8 +61,7 @@ Topics:
 * Applications of SDN and NFV
 * Network virtualization
 
-Area 4: **Wireless and Cellular Networks**
-Topics: 
+Area 4: **Wireless and Cellular Networks** 
 * 5G communications and architectures
 * Internet of Things
 * Age of information
