@@ -6,4 +6,6 @@ menu-index: 6
 
 # TPC Members
 
-**TODO**
+**Zhiyuan Jiang**, China
+**Sara Alouf**, INRIA, France
+**Oliver Hohlfeld**, University of Kassel, Germany
