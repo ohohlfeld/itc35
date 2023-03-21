@@ -14,10 +14,21 @@ ITC 35 solicits cutting-edge papers spanning both theory and experimentation in 
 
 ITC 35 covers topics in the areas of:
 
-*      **Performance Evaluation, Control and Optimization**
-*      **Network Measurements and Big Data**
-*      **Networking Architectures and Paradigms**
-*      **Wireless and Cellular Networks**
+
+* **Big data analytics and machine learning for network & traffic measurements analysis**
+* **Application of Big Data frameworks (streaming, batch) to network data**
+* **Novel or better algorithms for topology discovery, network tomography, etc.**
+* **Measurement-driven network simulation methodologies**
+* **Performance models from network measurements**
+* **Network performance measurements and analysis**
+* **Traffic & workload modeling, traffic generation techniques**
+* **User characterization and modeling**
+* **Quality-of-Service and Quality-of-Experience**
+* **Application layer measurement methodologies and characterization**
+* **Traffic classification, evasion and deanonymization**
+* **Network anomaly detection and diagnosis**
+* **Measurements for network security and forensics**
+* **Measurements for privacy quantification, and privacy-preserving measurements**
 
 
 ## Important Dates:
