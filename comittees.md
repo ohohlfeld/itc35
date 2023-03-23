@@ -25,7 +25,7 @@ Publicity chairs:
    + **Martino Trevisan**, Università di Trieste, Italy  
    + **Yuxuan Sun**,  Beijing Jiaotong University, China 
   
-Workshop chair
+Workshop chair:
    + **Andrea Baiocchi**, Universita' di Roma, La Sapienza
    
 Web chair:  
