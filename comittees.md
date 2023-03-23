@@ -26,7 +26,7 @@ Publicity chairs:
    + **Yuxuan Sun**,  Beijing Jiaotong University, China 
   
 Workshop chair:
-   + **Andrea Baiocchi**, Universita' La Sapienza, Italy
+   + **Andrea Baiocchi**, Università La Sapienza, Italy
    
 Web chair:  
    + **Gianluca Perna**, Politecnico di Torino, Italy   
