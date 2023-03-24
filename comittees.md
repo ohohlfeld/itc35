@@ -13,7 +13,7 @@ General chairs:
    + **Michela Meo**, Politecnico di Torino, Italy
  
 TPC chairs:  
-   + **Zhiyuan Jiang**, Tsinghua University, China  
+   + **Zhiyuan Jiang**, Shanghai University, China  
    + **Sara Alouf**, INRIA, France         
    + **Oliver Hohlfeld**, University of Kassel, Germany   
  
