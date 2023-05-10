@@ -9,3 +9,4 @@ menu-index: 1
 ## Social Media, Privacy and Regulation
 
 
+<img src="{{ site.baseurl }}/assets/images/keynote/SilviaGiordano.png">
