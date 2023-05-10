@@ -10,7 +10,7 @@ menu-index: 1
 
 <table>
     <tbody><tr>
-        <br><br>
+        <br>
         <td  height="250" align="center">
             <img src="{{ site.baseurl }}/assets/images/keynote/SilviaGiordano.png" alt="Silvia Giordano" ><br>
         </td>
