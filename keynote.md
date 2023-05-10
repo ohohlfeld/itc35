@@ -14,7 +14,7 @@ menu-index: 1
         <td  width="250" height="250" align="center">
             <img src="{{ site.baseurl }}/assets/images/keynote/SilviaGiordano.png" alt="Silvia Giordano" width="200" height="250">
         </td>
-        <td style="height:250px">
+        <td height="250">
             <p style="font-size:15px height=250">
                 Prof. Silvia Giordano is the head of the NetLab at SUPSI, Switzerland. Holding a PhD from EPFL, Switzerland, she has obtained national and international grants for innovative projects worth over 10 million CHF, which she has coordinated successfully. She was a co-author of the NCCR proposal of EPFL, which was awarded CHF 38 million by the SNSF, reaching over CHF 100 million with investments by participants and external funders. Projects such as MONARCA and PROMO have reached technology readiness level TRL9 and released final products that entered the market. She is a member of the Partnership Board of Big Data Value and is involved in the creation of a Big Data Innovation Hub in Ticino. She is additionally the responsible person of the SUPSI research area on Digital EcoSystems and a member of the SUPSI Research Group that supervises the research strategies in SUPSI.
             </p>
