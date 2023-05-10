@@ -12,7 +12,7 @@ menu-index: 1
     <tbody><tr>
         <br>
         <td  width="250" height="250" align="center">
-            <img src="{{ site.baseurl }}/assets/images/keynote/SilviaGiordano.png" alt="Silvia Giordano" ><br>
+            <img src="{{ site.baseurl }}/assets/images/keynote/SilviaGiordano.png" alt="Silvia Giordano" width="200" ><br>
         </td>
         <td width="250" height="250">
             <p style="font-size:15px">
