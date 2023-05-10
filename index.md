@@ -4,7 +4,7 @@ menu: top-nav
 menu-index: 0
 ---
 
-## {{ site.conference-name }} in {{ site.conference-location }}: {{ site.conference-subname }}
+{{ site.conference-name }} in {{ site.conference-location }}: {{ site.conference-subname }}
 
 The **INTERNATIONAL TELETRAFFIC CONGRESS {{ (site.conference-name) }}**, to be held **{{ site.conference-date }}** at {{ site.conference-location-detail }}, is the {{ site.conference-number }} edition of this international flagship congress in the field of networking science and practice. ITC was founded back in 1955 by enthusiastic scientists and engineers who were willing to deploy networks in a holistic way. Since then, it has estab­lished a multi-decade tradition as the primary forum for presenting and dis­cussing the latest technical advances in the broad areas of teletraffic models, network systems, and measurements.
 
