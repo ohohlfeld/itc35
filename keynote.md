@@ -16,7 +16,7 @@ menu-index: 1
         </td>
         <td height="250">
             <p style="font-size:15px">
-                
+                Prof. Silvia Giordano holds a PhD from EPFL, Switzerland. She is currently the head of the Complex Networks and Pervasive Computing Lab (NetLab) in the Institute of System for Informatics and Networking (ISIN), at the University of Applied Science and Arts - SUPSI in Ticino, Switzerland. She obtained several national and international grants for some very innovative projects for more than 10 millions CHF, which she successfully coordinated. It is worth noting her co-authoring of the NCCR proposal of EPFL "MICS – Mobile Information and Communication Systems" 2001-2012, which was awarded CHF 38 millions by the SNSF, and reached more than CHF 100 millions with investments by participants and external funders. Some of the acquired research projects, as the European project MONARCA or the KTI project PROMO, reached technology readiness level TRL9, releasing, after the end of the project, final products that entered the market. Currently she became member of the Partnership Board of the “Big Data Value” http://www.bdva.eu/, and started the activity of the creation of a Big Data Innovation Hub in Ticino, in collaboration with Fondazione Agire, under the EU H2020 call DT-ICT-05-2020. Also, she has been included in the Partnership Board of Priority Programme 'Social Networks' coordinated by the University of Zurich, which already produced a NCCR proposal. She is the responsible person of the SUPSI research area on Digital EcoSystems (Asse5), and member of the SUPSI Research Group that supervises the research strategies in SUPSI.
             </p>
         </td>
     </tr>
