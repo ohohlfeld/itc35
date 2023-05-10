@@ -11,7 +11,7 @@ menu-index: 1
 <table>
     <tbody><tr>
         <br>
-        <td  swidth="250" height="250" align="center">
+        <td  width="250" height="250" align="center">
             <img src="{{ site.baseurl }}/assets/images/keynote/SilviaGiordano.png" alt="Silvia Giordano" width="200" height="250">
         </td>
         <td style="height:250px">
