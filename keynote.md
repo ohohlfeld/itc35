@@ -21,7 +21,7 @@ menu-index: 1
         </td>
     </tr>
     <tr>
-        <td height="100" align="center">
+        <td width="250" align="center">
             <b>Silvia Giordano</b><br>
              SUPSI - Switzerland<br>
             <a href="mailto:silvia.giordano@supsi.ch">silvia.giordano@supsi.ch</a>
