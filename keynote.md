@@ -23,7 +23,7 @@ menu-index: 1
     <tr>
         <td height="150" align="center">
             <b>Silvia Giordano</b><br>
-            -<br>
+            Department of Innovative Technologies – SUPSI - Switzerland<br>
             <a href="mailto:silvia.giordano@supsi.ch">silvia.giordano@supsi.ch</a>
         </td>
     </tr>
