@@ -12,19 +12,19 @@ General chairs:
    + **Markus Fiedler**, Blekinge Tekniska Högskola, Sweden  
    + **Michela Meo**, Politecnico di Torino, Italy
  
-TPC chairs:  
-   + **Zhiyuan Jiang**, Shanghai University, China  
-   + **Sara Alouf**, INRIA, France         
-   + **Oliver Hohlfeld**, University of Kassel, Germany   
+TPC chairs:
+   + **Sara Alouf**, INRIA, France
+   + **Oliver Hohlfeld**, University of Kassel, Germany  
+   + **Zhiyuan Jiang**, Shanghai University, China            
+   
  
 Local arrangement:  
    + **Daniela Renga**, Politecnico di Torino, Italy  
    + **Greta Vallero**, Politecnico di Torino, Italy  
  
-Publicity chairs:  
-   + **Martino Trevisan**, Università di Trieste, Italy  
+Publicity chairs: 
    + **Yuxuan Sun**,  Beijing Jiaotong University, China 
-  
+   + **Martino Trevisan**, Università di Trieste, Italy
 Workshop chair:
    + **Andrea Baiocchi**, Università La Sapienza, Italy
    
