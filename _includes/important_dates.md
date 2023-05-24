@@ -1,6 +1,16 @@
+<style>
+blue {
+  color: lightblue;
+}
+
 red {
   color: red;
 }
+
+green {
+  color: lightgreen;
+}
+</style>
 
 ~~May 23~~ June 12, 2023:  Paper Registration<br/> <red>Deadline Extended</red>
 ~~May 30~~ June 14, 2023:  Submission deadline<br/> <red>Deadline Extended</red>
