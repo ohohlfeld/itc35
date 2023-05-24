@@ -25,6 +25,7 @@ Local arrangement:
 Publicity chairs: 
    + **Yuxuan Sun**,  Beijing Jiaotong University, China 
    + **Martino Trevisan**, Università di Trieste, Italy
+   
 Workshop chair:
    + **Andrea Baiocchi**, Università La Sapienza, Italy
    
