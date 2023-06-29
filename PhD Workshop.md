@@ -22,9 +22,9 @@ during a dedicated workshop.
 With respect to the presentation to be given during the Workshop, two 
 contribution formats are solicited: 
 
-•	more mature research works, in the form of a long presentation (up 
+* More mature research works, in the form of a long presentation (up 
 to 20 min each);
-•	short in-progress research work discussion, with a short 
+*	Short in-progress research work discussion, with a short 
 presentation (up to 10 min each). 
 
 Correspondingly, Authors proposing a long presentation are invited to 
