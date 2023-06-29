@@ -1,7 +1,7 @@
 ---
 title: PhD Workshop
 menu: top-nav
-menu-index: 1
+menu-index: 6
 ---
 <h1>PhD Workshop</h1>
 <h3>Network Traffic Engineering in the TLC networks of the future</h3>
