@@ -12,6 +12,9 @@ green {
 }
 </style>
 <strong>PhD Workshop:</strong><br/>
+July 10, 2023: Submission deadline:
+July 20, 2023: Notification of acceptance: 
+August 16, 2023: Submission of camera-ready extended abstracts: 
 October 4, 2023: Workshop Date
 
 <strong>Main Conference:</strong><br/>
