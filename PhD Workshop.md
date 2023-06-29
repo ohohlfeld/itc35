@@ -44,7 +44,7 @@ workshop program.
 {% capture dates %}
 {% include important_dates.md %}
 {% endcapture %}
-{{ dates | markdownify }}
+{{ dates | markdownify }}<br/>
 Camera-ready versions should be uploaded as indicated with respect to camera-ready instructions.
 
 
