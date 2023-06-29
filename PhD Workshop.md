@@ -1,9 +1,14 @@
-PhD WORKSHOP
-“Network Traffic Engineering in the TLC networks of the future”
-
+---
+title: PhD Workshop
+menu: top-nav
+menu-index: 1
+---
+<h1>PhD Workshop</h1>
+Network Traffic Engineering in the TLC networks of the future
 Date: Wednesday, October 4, 2023
 
-Description: Re-thinking fundamental networking functions, their modeling 
+Description:
+Re-thinking fundamental networking functions, their modeling 
 and their performance evaluation in the framework of the evolving Internet 
 and cellular networks, in the era of cloud and content providers, is a 
 target for the ITC community. The PhD workshop aims at fostering 
