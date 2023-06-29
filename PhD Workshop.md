@@ -39,12 +39,13 @@ Authors proposing a short presentation are solicited to submit a title,
 list of Authors and a short abstract (up to 400 words), to help set up the 
 workshop program.
 
-## Important dates:
-Submission deadline: July 10, 2023<br/>
-Notification of acceptance: July 20, 2023<br/>
-Submission of camera-ready extended abstracts: August 16, 2023<br/>
-Camera-ready versions should be uploaded as indicated with respect to 
-camera-ready instructions.
+##  Important Dates
+
+{% capture dates %}
+{% include important_dates.md %}
+{% endcapture %}
+{{ dates | markdownify }}
+Camera-ready versions should be uploaded as indicated with respect to camera-ready instructions.
 
 
 ## Workshop Chairs
