@@ -28,6 +28,7 @@ Publicity chairs:
    
 Workshop chair:
    + **Andrea Baiocchi**, Università La Sapienza, Italy
-   
+   + **Lea Skorin-Kapov**, University of Zagreb, Croatia
+
 Web chair:  
    + **Gianluca Perna**, Politecnico di Torino, Italy   
