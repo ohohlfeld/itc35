@@ -7,7 +7,7 @@ menu-index: 1
 Network Traffic Engineering in the TLC networks of the future
 Date: Wednesday, October 4, 2023
 
-Description:
+##  Description:
 Re-thinking fundamental networking functions, their modeling 
 and their performance evaluation in the framework of the evolving Internet 
 and cellular networks, in the era of cloud and content providers, is a 
@@ -18,7 +18,7 @@ progress, proposition of research challenges and directions is welcome
 during a dedicated workshop.
 
 
-Submission instructions:
+##  Submission instructions:
 With respect to the presentation to be given during the Workshop, two 
 contribution formats are solicited: 
 
@@ -39,8 +39,7 @@ Authors proposing a short presentation are solicited to submit a title,
 list of Authors and a short abstract (up to 400 words), to help set up the 
 workshop program.
 
-
-Important dates:
+## Important dates:
 Submission deadline: July 10, 2023
 Notification of acceptance: July 20, 2023
 Submission of camera-ready extended abstracts: August 16, 2023 
@@ -48,7 +47,7 @@ Camera-ready versions should be uploaded as indicated with respect to
 camera-ready instructions.
 
 
-Workshop Chairs
+## Workshop Chairs
 Andrea Baiocchi, University of Rome, Italy
 Lea Skorin-Kapov, University of Zagreb, Croatia
 
