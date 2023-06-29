@@ -11,10 +11,10 @@ green {
   color: lightgreen;
 }
 </style>
-<strong>PhD Workshop:</strong>
+<strong>PhD Workshop:</strong><br/>
 October 4, 2023: Workshop Date
 
-<strong>Main Conference:</strong>
+<strong>Main Conference:</strong><br/>
 ~~May 23~~ June 14, 2023:  Paper Registration <red>Deadline Extended</red><br/>
 ~~May 30~~ June 14, 2023:  Submission deadline <red>Deadline Extended</red><br/>
 Jul 17, 2023:  Expected notification date<br/>
