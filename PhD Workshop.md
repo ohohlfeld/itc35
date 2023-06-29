@@ -1,0 +1,52 @@
+PhD WORKSHOP
+“Network Traffic Engineering in the TLC networks of the future”
+
+Date: Wednesday, October 4, 2023
+
+Description: Re-thinking fundamental networking functions, their modeling 
+and their performance evaluation in the framework of the evolving Internet 
+and cellular networks, in the era of cloud and content providers, is a 
+target for the ITC community. The PhD workshop aims at fostering 
+contributions and fresh ideas from young researchers, pursuing their PhD 
+or having just completed their PhD. Discussion of their PhD ideas and 
+progress, proposition of research challenges and directions is welcome 
+during a dedicated workshop.
+
+
+Submission instructions:
+With respect to the presentation to be given during the Workshop, two 
+contribution formats are solicited: 
+
+•	more mature research works, in the form of a long presentation (up 
+to 20 min each);
+•	short in-progress research work discussion, with a short 
+presentation (up to 10 min each). 
+
+Correspondingly, Authors proposing a long presentation are invited to 
+submit an extended abstract (max 3 pages plus references, using the same 
+format as for regular contributions to the main conference). Extended 
+abstracts will be published along with conference proceedings. The best 
+contribution will be invited for submission as a full paper to be 
+fast-track reviewed for potential publication in a journal (to be 
+determined).
+
+Authors proposing a short presentation are solicited to submit a title, 
+list of Authors and a short abstract (up to 400 words), to help set up the 
+workshop program.
+
+
+Important dates:
+Submission deadline: July 10, 2023
+Notification of acceptance: July 20, 2023
+Submission of camera-ready extended abstracts: August 16, 2023 
+Camera-ready versions should be uploaded as indicated with respect to 
+camera-ready instructions.
+
+
+Workshop Chairs
+Andrea Baiocchi, University of Rome, Italy
+Lea Skorin-Kapov, University of Zagreb, Croatia
+
+
+
+
