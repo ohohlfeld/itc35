@@ -4,7 +4,7 @@ menu: top-nav
 menu-index: 1
 ---
 <h1>PhD Workshop</h1>
-Network Traffic Engineering in the TLC networks of the future
+Network Traffic Engineering in the TLC networks of the future<br/>
 Date: Wednesday, October 4, 2023
 
 ##  Description:
@@ -40,15 +40,15 @@ list of Authors and a short abstract (up to 400 words), to help set up the
 workshop program.
 
 ## Important dates:
-Submission deadline: July 10, 2023
-Notification of acceptance: July 20, 2023
-Submission of camera-ready extended abstracts: August 16, 2023 
+Submission deadline: July 10, 2023<br/>
+Notification of acceptance: July 20, 2023<br/>
+Submission of camera-ready extended abstracts: August 16, 2023<br/>
 Camera-ready versions should be uploaded as indicated with respect to 
 camera-ready instructions.
 
 
 ## Workshop Chairs
-Andrea Baiocchi, University of Rome, Italy
+Andrea Baiocchi, University of Rome, Italy<br/>
 Lea Skorin-Kapov, University of Zagreb, Croatia
 
 
