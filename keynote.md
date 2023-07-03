@@ -46,12 +46,12 @@ Its therefore necessary to establish a clear, traceable, and replicable methodol
 </p>
 
 
-## changes in economics and strategy, culture and organizations, skills and capabilities
+## Changes in economics and strategy, culture and organizations, skills and capabilities
 <table>
     <tbody><tr>
         <br>
-        <td  width="250" height="250" align="center">
-            <img src="{{ site.baseurl }}/assets/images/keynote/Colin.jpg" alt="Colin Maclay" width="200" height="250">
+        <td  width="250" height="300" align="center">
+            <img src="{{ site.baseurl }}/assets/images/keynote/Colin.jpg" alt="Colin Maclay" width="220" height="300">
         </td>
         <td height="250">
             <p style="font-size:15px height=250">
