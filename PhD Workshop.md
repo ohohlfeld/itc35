@@ -39,7 +39,7 @@ list of Authors and a short abstract (up to 400 words), to help set up the
 workshop program.
 
 **Contribution should be sent in pdf format via email to:<br/>
-Andrea Baiocchi <andrea.baiocchi@uniroma1.it>,<br/>
+Andrea Baiocchi <andrea.baiocchi@uniroma1.it><br/>
 Lea Skorin-Kapov <Lea.Skorin-Kapov@fer.hr>**
 
 
