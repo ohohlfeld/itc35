@@ -38,8 +38,8 @@ Authors proposing a short presentation are solicited to submit a title,
 list of Authors and a short abstract (up to 400 words), to help set up the 
 workshop program.
 
-**Contribution should be sent in pdf format via email to:
-Andrea Baiocchi <andrea.baiocchi@uniroma1.it>,
+**Contribution should be sent in pdf format via email to:<br/>
+Andrea Baiocchi <andrea.baiocchi@uniroma1.it>,<br/>
 Lea Skorin-Kapov <Lea.Skorin-Kapov@fer.hr>**
 
 
