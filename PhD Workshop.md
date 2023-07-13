@@ -16,6 +16,7 @@ or having just completed their PhD. Discussion of their PhD ideas and
 progress, proposition of research challenges and directions is welcome 
 during a dedicated workshop.
 
+**Check the travel grant section for student travel expenses availability.**
 
 ##  Submission instructions:
 With respect to the presentation to be given during the Workshop, two 
