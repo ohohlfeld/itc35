@@ -13,7 +13,7 @@ green {
 </style>
 <strong>PhD Workshop:</strong><br/>
 ~~July 10~~ Aug 10, 2023: Submission deadline <red>Deadline Extended</red><br/>
-~~July 20~~ Aug 20, 2023: Notification of acceptance<red>Deadline Extended</red><br/>
+~~July 20~~ Aug 20, 2023: Notification of acceptance <red>Deadline Extended</red><br/>
 August 16, 2023: Submission of camera-ready extended abstracts<br/> 
 October 4, 2023: Workshop Date
 
