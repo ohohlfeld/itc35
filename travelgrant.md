@@ -8,7 +8,7 @@ menu-index: 5
 
 ## Student Travel Grant Applications
 
-The International Advisory Committee (IAC) of the ITC has decided to offer a number of travel grants (STG) that will be available to support full-time students for attending {{ site.conference-name }}. The amount of each grant is EUR 600 that can be used to cover student travel expenses related to attending {{ site.conference-name }} conference, such as student registration fee, airline ticket, and hotel accommodation expenses.   
+The International Advisory Committee (IAC) of the ITC has decided to offer a number of **travel grants** (STG) that will be available to support full-time students for attending {{ site.conference-name }}. The amount of each grant is **EUR 600** that can be used to cover student travel expenses related to attending {{ site.conference-name }} conference, such as student registration fee, airline ticket, and hotel accommodation expenses.   
    
 <!-- The **STG Application process** is open from **TODO DATE** until **TODO DATE**.
 - The **application from the student** should state why he/she wants to attend {{ site.conference-name }} and how would he/she benefit from {{ site.conference-name }}. This description should be kept to a page maximum and uploaded through EDAS.
