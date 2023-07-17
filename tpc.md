@@ -30,9 +30,7 @@ menu-index: 6
 * **Esa Hyytiä**, University of Iceland
 * **Alain Jean-Marie**, Inria
 * **Bo Jiang**, Shanghai Jiao Tong University
-* **Lei Jiao**, University of Oregon
 * **Haiming Jin**, Shanghai Jiao Tong University
-* **Veeraruna Kavitha**, IIT Bombay
 * **Udo R. Krieger**, Otto-Friedrich-University Bamberg
 * **Jean-Yves Le Boudec**, EPFL
 * **Jeremie Leguay**, Huawei Technologies
@@ -46,7 +44,6 @@ menu-index: 6
 * **Arpan Mukhopadhyay**, University of Warwick
 * **Jayakrishnan Nair**, IIT Bombay
 * **Juan Perez**, Universidad de Los Andes
-* **Nancy Perrot**, Orange Labs
 * **Antonio Pescapé**, University of Napoli Federico II
 * **Fabio Pianese**, Nokia Bell Labs
 * **Cristina Pinotti**, University of Perugia
