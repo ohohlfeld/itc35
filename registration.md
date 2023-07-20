@@ -70,7 +70,7 @@ menu-index: 4
 </table>
 
 
-**N.B.**<br/>
+**NB**<br/>
 A student full registration is needed per each presentation at the PhD workshop.<br/>
 The registration allows to attend the technical program.<br/>
 The registration does not include the welcome cocktail  and the social dinner.<br/>
