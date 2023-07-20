@@ -10,13 +10,44 @@ To register for the conference, please click [here](https://form.jotform.com/232
 
 ## Registration {{ site.conference-name }}
 
-| **Registration Type**        | **Deadline** | **Cost (Euro)** | **Inclusions**                                      |
-|-----------------------------|--------------|-----------------|-----------------------------------------------------|
-| Full Registration           | Aug 16, 2023 | 650             | Full access to the conference                       |
-| Author Registration         | Aug 16, 2023 | 650             | Full access to the conference                       |
-| Student Full Registration   | Aug 31, 2023 | 300             | Full access to the conference                       |
-| Student presenting at PhD workshop | Aug 31, 2023 | 300      | Full access to the PhD workshop for students       |
-| Student Limited Registration | Aug 31, 2023 | 200             | Access to the technical program of the conference   |
+<table>
+  <tr>
+    <th style="text-align: left">Registration Type</th>
+    <th style="text-align: left">Deadline</th>
+    <th style="text-align: left">Cost (Euro)</th>
+    <th style="text-align: left">Inclusions</th>
+  </tr>
+  <tr>
+    <td>Full Registration</td>
+    <td>Aug 16, 2023</td>
+    <td>650</td>
+    <td>Full access to the conference</td>
+  </tr>
+  <tr>
+    <td>Author Registration</td>
+    <td>Aug 16, 2023</td>
+    <td>650</td>
+    <td>Full access to the conference</td>
+  </tr>
+  <tr>
+    <td>Student Full Registration</td>
+    <td>Aug 31, 2023</td>
+    <td>300</td>
+    <td>Full access to the conference</td>
+  </tr>
+  <tr>
+    <td>Student presenting at PhD workshop</td>
+    <td>Aug 31, 2023</td>
+    <td>300</td>
+    <td>Full access to the PhD workshop for students</td>
+  </tr>
+  <tr>
+    <td>Student Limited Registration</td>
+    <td>Aug 31, 2023</td>
+    <td>200</td>
+    <td>Access to the technical program of the conference</td>
+  </tr>
+</table>
 
 **N.B.**<br/>
 A student full registration is needed per each presentation at the PhD workshop.<br/>
