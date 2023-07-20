@@ -6,10 +6,17 @@ menu-index: 4
 
 # Registration Information
 
-## Online Registration
+## Registration {{ site.conference-name }}
 
-Registration for {{ site.conference-name }} is not open yet.
+| **Registration Type**        | **Deadline** | **Cost (Euro)** | **Inclusions**                                      |
+|-----------------------------|--------------|-----------------|-----------------------------------------------------|
+| Full Registration           | Aug 16, 2023 | 650             | Full access to the conference                       |
+| Author Registration         | Aug 16, 2023 | 650             | Full access to the conference                       |
+| Student Full Registration   | Aug 31, 2023 | 300             | Full access to the conference                       |
+| Student presenting at PhD workshop | Aug 31, 2023 | 300      | Full access to the PhD workshop for students       |
+| Student Limited Registration | Aug 31, 2023 | 200             | Access to the technical program of the conference   |
 
-## Registration
-
-Registration for {{ site.conference-name }} is not open yet.
+**N.B.** 
+A student full registration is needed per each presentation at the PhD workshop.
+The registration allows to attend the technical program. 
+The registration does not include the welcome cocktail  and the social dinner.
