@@ -37,20 +37,20 @@ menu-index: 4
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mzrp">Full Registration*</td>
-    <td class="tg-mzrp">Aug 16, 2023</td>
+    <td class="tg-mzrp">Full Registration</td>
+    <td class="tg-mzrp">-</td>
     <td class="tg-mzrp">650</td>
     <td class="tg-mzrp">Full access to the conference</td>
   </tr>
   <tr>
-    <td class="tg-gmor">Author Registration</td>
+    <td class="tg-gmor">Author Registration*</td>
     <td class="tg-gmor">Aug 16, 2023</td>
     <td class="tg-gmor">650</td>
     <td class="tg-gmor">Full access to the conference</td>
   </tr>
   <tr>
     <td class="tg-mzrp">Student Full Registration**</td>
-    <td class="tg-mzrp">Aug 31, 2023</td>
+    <td class="tg-mzrp">-</td>
     <td class="tg-mzrp">300</td>
     <td class="tg-mzrp">Full access to the conference</td>
   </tr>
@@ -58,7 +58,7 @@ menu-index: 4
     <td class="tg-gmor">Student presenting at PhD workshop</td>
     <td class="tg-gmor">Aug 31, 2023</td>
     <td class="tg-gmor">300</td>
-    <td class="tg-gmor">Full access to the PhD workshop for students</td>
+    <td class="tg-gmor">Full access to the conference</td>
   </tr>
   <tr>
     <td class="tg-mzrp">Student Limited Registration***</td>
@@ -73,5 +73,3 @@ menu-index: 4
 **NB**<br/>
 \*   A full registration is needed per each paper presented at the conference.<br/>
 \**  A student full registration is needed per each presentation at the PhD workshop.<br/>
-\*** The registration allows to attend the technical program.<br/>
-\*** The registration does not include the welcome cocktail  and the social dinner.<br/>
