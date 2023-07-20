@@ -71,7 +71,7 @@ menu-index: 4
 
 
 **NB**<br/>
-* A full registration is needed per each paper presented at the conference.<br/>
+\* A full registration is needed per each paper presented at the conference.<br/>
 ** A student full registration is needed per each presentation at the PhD workshop.<br/>
 *** The registration allows to attend the technical program.<br/>
 *** The registration does not include the welcome cocktail  and the social dinner.<br/>
