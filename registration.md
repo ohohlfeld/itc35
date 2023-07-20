@@ -6,6 +6,8 @@ menu-index: 4
 
 # Registration Information
 
+To register for the conference, please click [here](https://form.jotform.com/232003508235343).<br/>
+
 ## Registration {{ site.conference-name }}
 
 | **Registration Type**        | **Deadline** | **Cost (Euro)** | **Inclusions**                                      |
