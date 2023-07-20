@@ -61,7 +61,7 @@ menu-index: 4
     <td class="tg-gmor">Full access to the PhD workshop for students</td>
   </tr>
   <tr>
-    <td class="tg-mzrp">Student Limited Registration</td>
+    <td class="tg-mzrp">Student Limited Registration*</td>
     <td class="tg-mzrp">Aug 31, 2023</td>
     <td class="tg-mzrp">200</td>
     <td class="tg-mzrp">Access to the technical program of the conference</td>
@@ -73,5 +73,5 @@ menu-index: 4
 **NB**<br/>
 A full registration is needed per each paper presented at the conference.<br/>
 A student full registration is needed per each presentation at the PhD workshop.<br/>
-The registration allows to attend the technical program.<br/>
-The registration does not include the welcome cocktail  and the social dinner.<br/>
+*The registration allows to attend the technical program.<br/>
+*The registration does not include the welcome cocktail  and the social dinner.<br/>
