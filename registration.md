@@ -8,7 +8,7 @@ menu-index: 4
 
 
 ## Registration {{ site.conference-name }}
-<br/><br/>To register for the conference, please click [here](https://form.jotform.com/232003508235343).<br/><br/>
+<br/>To register for the conference, please click [here](https://form.jotform.com/232003508235343).<br/><br/>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
