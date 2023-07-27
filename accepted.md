@@ -3,7 +3,7 @@ title: Accepted papers
 menu: top-nav
 menu-index: 3
 ---
-
+# List of Accepted Papers
 - **Estimating Traffic Latent Due to QoS Deterioration: A Time-Series Causal Inference Approach**
   Authors: Keisuke Ishibashi (International Christian University); Takumi Uchida (ComWorth Co., Ltd.)
 
