@@ -80,39 +80,27 @@ Where do we go from here…and how do we get there? Decades of incredible techno
       <td width="250" height="300" align="center">
         <img src="{{ site.baseurl }}/assets/images/keynote/stefan_koehler.jpg" alt="Stefan Koehler" width="220" height="300">
         <br>
-        <b>David Hock</b><br>
+        <b>Stefan Koehler</b><br>
         University of Würzburg Lab<br>
-        <a href="mailto:hock@infosim.net">hock@infosim.net</a>
-      </td>
-      <td height="250">
-        <p style="font-size:15px">
-          Dr. Stefan Köhler and Dr. David Hock are both former Research assistants of the Chair of Distributed Systems/Communication Networks of the University of Würzburg previously led by Prof. Phuoc Tran-Gia, and now followed up by Prof. Tobias Hoßfeld since 2018. In their respective work at the chair, they both focused on Routing Optimization with different aspects. Stefan finished his Doctoral Degree in 2006 and is one of the co-founders and CEO of Infosim GmbH & Co. KG, celebrating its 20th anniversary this year. David finished his Doctoral Degree and joined Infosim in 2014 and is now the Director of Research of the Infosim® Group. He coordinates research activities across all business areas, including Automated Network & Service Management, IIoT, Smart City.
-          With the solution StableNet®, Infosim is a leading manufacturer of automated Service Fulfillment and Service Assurance solutions. StableNet® incorporates Fault, Performance, Configuration, and Services Management on a single platform. Since the very first day when starting as a spin-off of the University of Würzburg, Infosim has always been very actively participating in different research activities and conducted numerous funded research projects together with other industry partners as well as research institutes and academia. This is a very good driver for innovation and helps to bring together both the theoretical/methodological research work and the practical applications of it.
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <a href="mailto:koehler@infosim.net">koehler@infosim.net</a>
+        <br>
         <img src="{{ site.baseurl }}/assets/images/keynote/david_hock.jpg" alt="David Hock" width="220" height="300">
         <br>
         <b>David Hock</b><br>
         University of Würzburg Lab<br>
         <a href="mailto:hock@infosim.net">hock@infosim.net</a>
       </td>
-      <td height="300" align="center">
-        <img src="{{ site.baseurl }}/assets/images/keynote/stefan_koehler.jpg" alt="Stefan Koehler" width="220" height="300">
-        <br>
-        <b>Stefan Koehler</b><br>
-        University of Würzburg Lab<br>
-        <a href="mailto:koehler@infosim.net">koehler@infosim.net</a>
+      <td>
+        <p style="font-size:15px">
+Dr. Stefan Köhler and Dr. David Hock are both former Research assistants of the Chair of Distributed Systems/Communication Networks of the University of Würzburg previously lead by Prof. Phuoc Tran-Gia, and now followed up by Prof. Tobias Hoßfeld since 2018. In their respective work at the chair they both focused on Routing Optimization with different aspects. Stefan finished his Doctoral Degree in 2006 and is one of the cofounders and CEO of Infosim GmbH & Co. KG celebrating its 20th anniversary this year. David finished his Doctoral Degree and joined Infosim in 2014 and is now Director of Research of the Infosim® Group. He  coordinates research activities across all business areas, including Automated Network & Service Management, IIoT, Smart City.
+With the solution StableNet®, Infosim is a leading manufacturer of automated Service Fulfillment and Service Assurance solutions. StableNet® incorporates Fault, Performance, Configuration, and Services Management on a single platform. Since the very first day when starting as a spin off of the University of Würzburg, Infosim has always been very actively participating in different research activities and conducted numerous funded research projects together with other industry partners as well as Research institutes and academia. This is a very good driver for innovation and helps to bring together both the theoretical/methodological research work and the practical applications of it.
+      </p>
       </td>
     </tr>
   </tbody>
 </table>
 
-<p>
-  In the last twenty years since the start of Infosim, the communication world has been rapidly changing, and among other trends, it has moved back and forth from centralization to decentralization and vice versa. Some new challenges have come up with new technologies, while others have still stayed relevant or even started to finally get important after already having been discussed in the research community quite some years ago. In their keynote, Stefan and David will address current and upcoming challenges of automated network management in practice, touching among others on 5G and OpenRAN, software-defined networking, and AI/ML, but also covering topics like Quality of Experience and Quantum Communication. Stefan and David will also use the occasion to give tribute to one of the Infosim co-founders Prof. Tran-Gia, who was an expert in queuing theory and simulation techniques and one of the key persons in the team when Infosim started in the early 2000s.
-</p>
+In the last twenty years since the start of Infosim, the communication world has been rapidly changing and among others trends kept moving back and forth from centralization to decentralization and vice versa. Some new challenges have come up with new technologies and others have still stayed relevant or even started to finally get important after already having been discussed in the research community quite some years ago. In their keynote, Stefan and David will address current and upcoming challenges of automated network management in practice, touching among others on 5G and OpenRAN, software defined networking, and AI/ML, but also covering topics like Quality of Experience and Quantum Communication. Stefan and David will also use the occasion to give tribute to one of the Infosim co-founders Prof. Tran-Gia who was an expert in queueing theory and simulation techniques and one of the key persons in the team when Infosim started in the early 2000s.
 
 
 
