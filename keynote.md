@@ -91,7 +91,7 @@ With the solution StableNet®, Infosim is a leading manufacturer of automated Se
     <tr>
         <td width="250" align="center">
             <b>Stefan Koehler</b><br>
-             Annenberg Innovation Lab<br>
+             University of Würzburg Lab<br>
             <a href="mailto:koehler@infosim.net">koehler@infosim.net</a>
         </td>
     </tr>
