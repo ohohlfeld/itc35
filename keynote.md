@@ -79,6 +79,10 @@ Where do we go from here…and how do we get there? Decades of incredible techno
     <tr>
       <td width="250" height="300" align="center">
         <img src="{{ site.baseurl }}/assets/images/keynote/stefan_koehler.jpg" alt="Stefan Koehler" width="220" height="300">
+        <br>
+        <b>David Hock</b><br>
+        University of Würzburg Lab<br>
+        <a href="mailto:hock@infosim.net">hock@infosim.net</a>
       </td>
       <td height="250">
         <p style="font-size:15px">
@@ -88,13 +92,19 @@ Where do we go from here…and how do we get there? Decades of incredible techno
       </td>
     </tr>
     <tr>
-      <td width="250" align="center">
+      <td align="center">
+        <img src="{{ site.baseurl }}/assets/images/keynote/david_hock.jpg" alt="David Hock" width="220" height="300">
+        <br>
         <b>David Hock</b><br>
         University of Würzburg Lab<br>
         <a href="mailto:hock@infosim.net">hock@infosim.net</a>
       </td>
       <td height="300" align="center">
-        <img src="{{ site.baseurl }}/assets/images/keynote/david_hock.jpg" alt="David Hock" width="220" height="300">
+        <img src="{{ site.baseurl }}/assets/images/keynote/stefan_koehler.jpg" alt="Stefan Koehler" width="220" height="300">
+        <br>
+        <b>Stefan Koehler</b><br>
+        University of Würzburg Lab<br>
+        <a href="mailto:koehler@infosim.net">koehler@infosim.net</a>
       </td>
     </tr>
   </tbody>
@@ -103,6 +113,7 @@ Where do we go from here…and how do we get there? Decades of incredible techno
 <p>
   In the last twenty years since the start of Infosim, the communication world has been rapidly changing, and among other trends, it has moved back and forth from centralization to decentralization and vice versa. Some new challenges have come up with new technologies, while others have still stayed relevant or even started to finally get important after already having been discussed in the research community quite some years ago. In their keynote, Stefan and David will address current and upcoming challenges of automated network management in practice, touching among others on 5G and OpenRAN, software-defined networking, and AI/ML, but also covering topics like Quality of Experience and Quantum Communication. Stefan and David will also use the occasion to give tribute to one of the Infosim co-founders Prof. Tran-Gia, who was an expert in queuing theory and simulation techniques and one of the key persons in the team when Infosim started in the early 2000s.
 </p>
+
 
 
 
