@@ -90,9 +90,14 @@ With the solution StableNet®, Infosim is a leading manufacturer of automated Se
     </tr>
     <tr>
         <td width="250" align="center">
-            <b>Stefan Koehler</b><br>
+            <b>Markus Fiedler</b><br>
              University of Würzburg Lab<br>
-            <a href="mailto:koehler@infosim.net">koehler@infosim.net</a>
+            <a href="mailto:markus.fiedler@bth.se">markus.fiedler@bth.se</a>
+        </td>
+        <td width="250" align="center">
+            <b>Markus Fiedler</b><br>
+             University of Würzburg Lab<br>
+            <a href="mailto:markus.fiedler@bth.se">markus.fiedler@bth.se</a>
         </td>
     </tr>
   </tbody>
