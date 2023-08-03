@@ -61,9 +61,9 @@ Colin M. Maclay is executive director of the Annenberg Innovation Lab, research 
     </tr>
     <tr>
         <td width="250" align="center">
-            <b>Colin M. Maclay</b><br>
+            <b>Colin Maclay</b><br>
              Annenberg Innovation Lab<br>
-            <a href="mailto:c.mac@usc.edu">c.mac@usc.edu</a>
+            <a href="mailto:koehler@infosim.net">koehler@infosim.net</a>
         </td>
     </tr>
   </tbody>
