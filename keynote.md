@@ -77,6 +77,7 @@ Where do we go from here…and how do we get there? Decades of incredible techno
 <table>
   <tbody>
     <tr>
+      <br>
       <td width="250" height="300" align="center">
         <img src="{{ site.baseurl }}/assets/images/keynote/stefan_koehler.jpg" alt="Stefan Koehler" width="180" height="200">
         <br>
