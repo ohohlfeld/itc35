@@ -80,6 +80,9 @@ Where do we go from here…and how do we get there? Decades of incredible techno
         <td  width="250" height="300" align="center">
             <img src="{{ site.baseurl }}/assets/images/keynote/stefan_koehler.jpg" alt="Stefan Koehler" width="220" height="300">
         </td>
+        <td  width="250" height="300" align="center">
+            <img src="{{ site.baseurl }}/assets/images/keynote/" alt="Stefan Koehler" width="220" height="300">
+        </td>
         <td height="250">
             <p style="font-size:15px height=250">
 Dr. Stefan Köhler and Dr. David Hock are both former Research assistants of the Chair of Distributed Systems/Communication Networks of the University of Würzburg previously lead by Prof. Phuoc Tran-Gia, and now followed up by Prof. Tobias Hoßfeld since 2018. In their respective work at the chair they both focused on Routing Optimization with different aspects. Stefan finished his Doctoral Degree in 2006 and is one of the cofounders and CEO of Infosim GmbH & Co. KG celebrating its 20th anniversary this year. David finished his Doctoral Degree and joined Infosim in 2014 and is now Director of Research of the Infosim® Group. He  coordinates research activities across all business areas, including Automated Network & Service Management, IIoT, Smart City.
