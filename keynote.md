@@ -85,6 +85,7 @@ Where do we go from here…and how do we get there? Decades of incredible techno
         University of Würzburg Lab<br>
         <a href="mailto:koehler@infosim.net">koehler@infosim.net</a>
         <br>
+        <br>
         <img src="{{ site.baseurl }}/assets/images/keynote/david_hock.jpg" alt="David Hock" width="180" height="200">
         <br>
         <b>David Hock</b><br>
