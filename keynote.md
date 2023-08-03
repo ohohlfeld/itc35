@@ -89,12 +89,12 @@ Where do we go from here…and how do we get there? Decades of incredible techno
     </tr>
     <tr>
       <td width="250" align="center">
-        <b>Markus Fiedler</b><br>
+        <b>David Hock</b><br>
         University of Würzburg Lab<br>
-        <a href="mailto:markus.fiedler@bth.se">markus.fiedler@bth.se</a>
+        <a href="mailto:hock@infosim.net">hock@infosim.net</a>
       </td>
       <td height="300" align="center">
-        <img src="{{ site.baseurl }}/assets/images/keynote/" alt="Markus Fiedler" width="220" height="300">
+        <img src="{{ site.baseurl }}/assets/images/keynote/david_hock.jpg" alt="David Hock" width="220" height="300">
       </td>
     </tr>
   </tbody>
