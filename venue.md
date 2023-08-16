@@ -7,12 +7,10 @@ menu-index: 9
 
 The main conference and the workshops will be hosted at the **Politecnico di Torino**, at the following address:
 
-**Address:**
-Corso Duca degli Abruzzi, 24
-10129 Torino, Italy
+Corso Duca degli Abruzzi, 24<br>
+10129 Torino, Italy<br>
 
-[View on Google Maps](https://www.google.it/maps/place/Corso+Duca+degli+Abruzzi,+24,+10129+Torino+TO/@45.0623496,7.6615164,17.38z/data=!4m6!3m5!1s0x47886d1823ab8863:0xf4d8ac6f3d1d0dda!8m2!3d45.0625359!4d7.662391!15sChxDb3JzbyBEdWNhIGRlZ2xpIEFicnV6emksIDI0kgEQZ2VvY29kZWRfYWRkcmVzcw?shorturl=1)
-
+To see the location on Google maps, please [click here](https://www.google.it/maps/place/Corso+Duca+degli+Abruzzi,+24,+10129+Torino+TO/@45.0623496,7.6615164,17.38z/data=!4m6!3m5!1s0x47886d1823ab8863:0xf4d8ac6f3d1d0dda!8m2!3d45.0625359!4d7.662391!15sChxDb3JzbyBEdWNhIGRlZ2xpIEFicnV6emksIDI0kgEQZ2VvY29kZWRfYWRkcmVzcw?shorturl=1).
 The rooms for the Workshops of September 19 are the **Classrooms 1-2-3-4 P** of Politecnico, located at the ground floor, easily accessible from the internal parking lot.
 
 The room that will be used for the main conference is the **Maxwell Conference Room**, located on the 5th floor. The Conference Room can be reached using one of the two elevators behind the glass doors.
