@@ -11,7 +11,7 @@ The main conference and the workshops will be hosted at the **Politecnico di Tor
 Corso Duca degli Abruzzi, 24
 10129 Torino, Italy
 
-[View on Google Maps](Google_Maps_Link_Goes_Here)
+[View on Google Maps](https://www.google.it/maps/place/Corso+Duca+degli+Abruzzi,+24,+10129+Torino+TO/@45.0623496,7.6615164,17.38z/data=!4m6!3m5!1s0x47886d1823ab8863:0xf4d8ac6f3d1d0dda!8m2!3d45.0625359!4d7.662391!15sChxDb3JzbyBEdWNhIGRlZ2xpIEFicnV6emksIDI0kgEQZ2VvY29kZWRfYWRkcmVzcw?shorturl=1)
 
 The rooms for the Workshops of September 19 are the **Classrooms 1-2-3-4 P** of Politecnico, located at the ground floor, easily accessible from the internal parking lot.
 
