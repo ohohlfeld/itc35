@@ -52,7 +52,7 @@ Via Nino Costa 4, 10123 Torino
 **Main Information:**
 - Buffet Breakfast, WiFi, Minibar, and access to Iside SPA included.
 - City Tax excluded (€3,70 per person per night).
-- Reservation should be done on the hotel website. Use promo code WIOPT.
+- Reservation should be done on the hotel website: in the “book your stay” section, please insert the promo code WIOPT.
 
 ### Additional Hotels
 
