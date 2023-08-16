@@ -64,7 +64,3 @@ If you do not find an available room in the aforementioned hotels, you can try b
 - Hotel Concord, 4 stars, via Lagrange 47
 - Best Wester Plus Executive, 4 stars, via Nizza 28
 - Best Western Plus Hotel Genova, 4 stars, via Sacchi 14/b
-
-For the most up-to-date information on availability and reservations, please visit the respective hotel websites.
-
-For any inquiries or assistance, please contact the conference organizers.
