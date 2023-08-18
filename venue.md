@@ -26,12 +26,6 @@ Corso Stati Uniti 7, 10128 Torino
 
 **Website:** [www.hoteluxor.it](https://www.hoteluxor.it)
 
-
-**Main Information:**
-- Buffet Breakfast and WiFi included.
-- Check-in: starting from 2 pm (luggage storage for early arrival available).
-- Check-out: within 12 pm.
-
 **Reservation:** Contact +39 011 5620777 or write to luxor.to@bestwestern.it.
 
 ### Hotel Victoria
@@ -40,11 +34,6 @@ Corso Stati Uniti 7, 10128 Torino
 Via Nino Costa 4, 10123 Torino
 
 **Website:** [www.hotelvictoria-torino.com](https://www.hotelvictoria-torino.com)
-
-
-**Main Information:**
-- Buffet Breakfast, WiFi, Minibar, and access to Iside SPA included.
-- Reservation should be done on the hotel website: in the “book your stay” section, please insert the promo code WIOPT.
 
 ### Additional Hotels
 
