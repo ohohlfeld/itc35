@@ -26,13 +26,9 @@ Corso Stati Uniti 7, 10128 Torino
 
 **Website:** [www.hoteluxor.it](https://www.hoteluxor.it)
 
-- Single Room: €120,00
-- Double for Single Use: €140,00
-- Double Room: €150,00
 
 **Main Information:**
 - Buffet Breakfast and WiFi included.
-- City Tax excluded (€2,80 per person per night).
 - Check-in: starting from 2 pm (luggage storage for early arrival available).
 - Check-out: within 12 pm.
 
@@ -45,13 +41,9 @@ Via Nino Costa 4, 10123 Torino
 
 **Website:** [www.hotelvictoria-torino.com](https://www.hotelvictoria-torino.com)
 
-- Queen Deluxe with french bed: €140,00 per night
-- Double for Single Use Deluxe with double bed: €160,00 per night
-- Double/Twin Room Deluxe: €210,00 per night
 
 **Main Information:**
 - Buffet Breakfast, WiFi, Minibar, and access to Iside SPA included.
-- City Tax excluded (€3,70 per person per night).
 - Reservation should be done on the hotel website: in the “book your stay” section, please insert the promo code WIOPT.
 
 ### Additional Hotels
