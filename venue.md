@@ -15,31 +15,35 @@ The room that will be used for the main conference is the **Maxwell Conference R
 
 ## Hotels
 
-To organize your stay, consider the following hotels located near the conference venue.
+**Grand Hotel Sitea **
+Via Carlo Alberto 35
+[http://www.grandhotelsitea.it/](http://www.grandhotelsitea.it/)
 
-### Best Western Hotel Luxor
+**Hotel Victoria **
+Via Nino Costa 4
+[http://hotelvictoria-torino.com/](http://hotelvictoria-torino.com/)
 
-**Address:**
-Corso Stati Uniti 7, 10128 Torino
+**Hotel NH Torino Centro **
+Corso Vittorio Emanuele II 104
+[https://www.nh-hotels.com/hotel/nh-torino-centro?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb](https://www.nh-hotels.com/hotel/nh-torino-centro?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)
 
-**Website:** [www.hoteluxor.it](https://www.hoteluxor.it)
+**Hotel Best Western Plus Genova **
+Via Paolo Sacchi 14/b
+[http://albergogenova.it/](http://albergogenova.it/)
 
-**Reservation:** Contact +39 011 5620777 or write to luxor.to@bestwestern.it.
+**Hotel Best Western Luxor **
+Corso Stati Uniti 7
+[https://www.hoteluxor.it/](https://www.hoteluxor.it/)
 
-### Hotel Victoria
+**Best Hotel Quality Politecnico **
+Corso Peschiera, 117 Via Spalato 7
+[https://politecnico.bqhotel.it/](https://politecnico.bqhotel.it/)
 
-**Address:**
-Via Nino Costa 4, 10123 Torino
+**Hotel Roma e Rocca Cavour **
+piazza Carlo Felice 60
+[https://www.romarocca.it/index.cfm/it/](https://www.romarocca.it/index.cfm/it/)
 
-**Website:** [www.hotelvictoria-torino.com](https://www.hotelvictoria-torino.com)
+**Hotel Best Western Genio **
+Corso Vittorio Emanuele II 47
+[https://www.hotelgenio.it/](https://www.hotelgenio.it/)
 
-### Additional Hotels
-
-If you do not find an available room in the aforementioned hotels, you can try booking at one of the following:
-
-- Best Quality Hotel Politecnico, 3 stars, corso Peschiera 117
-- Hotel Itali, 3 stars, Corso Stati Uniti 9/Bis
-- Best Western Hotel Genio, 3 stars, Corso Vittorio Emanuele II 47
-- Hotel Concord, 4 stars, via Lagrange 47
-- Best Wester Plus Executive, 4 stars, via Nizza 28
-- Best Western Plus Hotel Genova, 4 stars, via Sacchi 14/b
