@@ -15,6 +15,8 @@ The room that will be used for the main conference is the **Maxwell Conference R
 
 ## Hotels
 
+To organize your stay, consider the following hotels located near the conference venue.
+
 **Grand Hotel Sitea**<br>
 Via Carlo Alberto 35<br>
 [http://www.grandhotelsitea.it/](http://www.grandhotelsitea.it/)<br>
