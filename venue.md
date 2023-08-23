@@ -15,35 +15,35 @@ The room that will be used for the main conference is the **Maxwell Conference R
 
 ## Hotels
 
-**Grand Hotel Sitea **
-Via Carlo Alberto 35
-[http://www.grandhotelsitea.it/](http://www.grandhotelsitea.it/)
+**Grand Hotel Sitea **<br>
+Via Carlo Alberto 35<br>
+[http://www.grandhotelsitea.it/](http://www.grandhotelsitea.it/)<br>
 
-**Hotel Victoria **
-Via Nino Costa 4
-[http://hotelvictoria-torino.com/](http://hotelvictoria-torino.com/)
+**Hotel Victoria **<br>
+Via Nino Costa 4<br>
+[http://hotelvictoria-torino.com/](http://hotelvictoria-torino.com/)<br>
 
-**Hotel NH Torino Centro **
-Corso Vittorio Emanuele II 104
-[https://www.nh-hotels.com/hotel/nh-torino-centro?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb](https://www.nh-hotels.com/hotel/nh-torino-centro?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)
+**Hotel NH Torino Centro **<br>
+Corso Vittorio Emanuele II 104<br>
+[https://www.nh-hotels.com/hotel/nh-torino-centro?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb](https://www.nh-hotels.com/hotel/nh-torino-centro?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)<br>
 
-**Hotel Best Western Plus Genova **
-Via Paolo Sacchi 14/b
-[http://albergogenova.it/](http://albergogenova.it/)
+**Hotel Best Western Plus Genova **<br>
+Via Paolo Sacchi 14/b<br>
+[http://albergogenova.it/](http://albergogenova.it/)<br>
 
-**Hotel Best Western Luxor **
-Corso Stati Uniti 7
-[https://www.hoteluxor.it/](https://www.hoteluxor.it/)
+**Hotel Best Western Luxor **<br>
+Corso Stati Uniti 7<br>
+[https://www.hoteluxor.it/](https://www.hoteluxor.it/)<br>
 
-**Best Hotel Quality Politecnico **
-Corso Peschiera, 117 Via Spalato 7
-[https://politecnico.bqhotel.it/](https://politecnico.bqhotel.it/)
+**Best Hotel Quality Politecnico **<br>
+Corso Peschiera, 117 Via Spalato 7<br>
+[https://politecnico.bqhotel.it/](https://politecnico.bqhotel.it/)<br>
 
-**Hotel Roma e Rocca Cavour **
-piazza Carlo Felice 60
-[https://www.romarocca.it/index.cfm/it/](https://www.romarocca.it/index.cfm/it/)
+**Hotel Roma e Rocca Cavour **<br>
+piazza Carlo Felice 60<br>
+[https://www.romarocca.it/index.cfm/it/](https://www.romarocca.it/index.cfm/it/)<br>
 
-**Hotel Best Western Genio **
-Corso Vittorio Emanuele II 47
-[https://www.hotelgenio.it/](https://www.hotelgenio.it/)
+**Hotel Best Western Genio **<br>
+Corso Vittorio Emanuele II 47<br>
+[https://www.hotelgenio.it/](https://www.hotelgenio.it/)<br>
 
