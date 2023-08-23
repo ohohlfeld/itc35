@@ -15,35 +15,35 @@ The room that will be used for the main conference is the **Maxwell Conference R
 
 ## Hotels
 
-**Grand Hotel Sitea **<br>
+**Grand Hotel Sitea**<br>
 Via Carlo Alberto 35<br>
 [http://www.grandhotelsitea.it/](http://www.grandhotelsitea.it/)<br>
 
-**Hotel Victoria **<br>
+**Hotel Victoria**<br>
 Via Nino Costa 4<br>
 [http://hotelvictoria-torino.com/](http://hotelvictoria-torino.com/)<br>
 
-**Hotel NH Torino Centro **<br>
+**Hotel NH Torino Centro**<br>
 Corso Vittorio Emanuele II 104<br>
 [https://www.nh-hotels.com/hotel/nh-torino-centro?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb](https://www.nh-hotels.com/hotel/nh-torino-centro?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)<br>
 
-**Hotel Best Western Plus Genova **<br>
+**Hotel Best Western Plus Genova**<br>
 Via Paolo Sacchi 14/b<br>
 [http://albergogenova.it/](http://albergogenova.it/)<br>
 
-**Hotel Best Western Luxor **<br>
+**Hotel Best Western Luxor**<br>
 Corso Stati Uniti 7<br>
 [https://www.hoteluxor.it/](https://www.hoteluxor.it/)<br>
 
-**Best Hotel Quality Politecnico **<br>
+**Best Hotel Quality Politecnico**<br>
 Corso Peschiera, 117 Via Spalato 7<br>
 [https://politecnico.bqhotel.it/](https://politecnico.bqhotel.it/)<br>
 
-**Hotel Roma e Rocca Cavour **<br>
+**Hotel Roma e Rocca Cavour**<br>
 piazza Carlo Felice 60<br>
 [https://www.romarocca.it/index.cfm/it/](https://www.romarocca.it/index.cfm/it/)<br>
 
-**Hotel Best Western Genio **<br>
+**Hotel Best Western Genio**<br>
 Corso Vittorio Emanuele II 47<br>
 [https://www.hotelgenio.it/](https://www.hotelgenio.it/)<br>
 
