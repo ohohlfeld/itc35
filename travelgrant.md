@@ -6,28 +6,40 @@ menu-index: 5
 
 # Travel Grant
 
-## Student Travel Grant Applications
+# Student Travel Grants for ITC Conference
 
-The International Advisory Committee (IAC) of the ITC has decided to offer a number of **travel grants** (STG) that will be available to support full-time students for attending {{ site.conference-name }}. The amount of each grant is **EUR 600** that can be used to cover student travel expenses related to attending {{ site.conference-name }} conference, such as student registration fee, airline ticket, and hotel accommodation expenses.   
-   
-<!-- The **STG Application process** is open from **TODO DATE** until **TODO DATE**.
-- The **application from the student** should state why he/she wants to attend {{ site.conference-name }} and how would he/she benefit from {{ site.conference-name }}. This description should be kept to a page maximum and uploaded through EDAS.
-- The advisor of the student must also submit an **advisor's recommendation** stating that {{ site.conference-name }} covers the applicant's research areas, details whether the student is a PhD candidate, and outlines how the student outstands among other students. Upon application from the student, the advisor will receive an invitation from EDAS to submit the recommendation.
+The International Advisory Committee (IAC) of the ITC conference has decided to offer a number of student travel grants (STG) that will be available to support full-time students for attending ITC 35 and the associated PhD workshop. The amount of each STG is EUR 600 that can be used to cover student travel expenses related to attending the conference, such as student registration fee, airline ticket, and hotel accommodation expenses.
 
-It is important that both the student and advisor clearly motivate the application with regards to the scientific scope of ITC and the research work of the applicant.
+## Application Requirements
 
-The Student Advisor must declare that additional expenses to attend the conference will be somehow covered, should a student be granted a STG.
+The application from the student should provide:
 
-If selected, the Student commits to send within two weeks after {{ site.conference-name }} a **two-page report** highlighting the benefits of having attended {{ site.conference-name }}, in terms of impact on his/her own research, of overall technical knowledge increase, and on technical exchanges and potential collaboration with other attendees.
+- A concise CV (possibly in European format)
+- A letter stating why he/she wants to attend ITC 35 and how he/she would benefit from it. Students presenting at the PhD workshop should explicitly mention this in the letter.
+- The letter should be kept to a maximum of one page.
+- Contact information of the student’s advisor must also be reported.
+
+The application, letter, and CV must be sent to:
+
+- Andrea Baiocchi: [andrea.baiocchi@uniroma1.it](mailto:andrea.baiocchi@uniroma1.it)
+- Lea Skorin-Kapov: [Lea.Skorin-Kapov@fer.hr](mailto:Lea.Skorin-Kapov@fer.hr)
+
+## Responsibilities of Selected Students
+
+If selected, the student is expected to:
+
+- Attend ITC 35 and the PhD workshop.
+- Provide feedback within two weeks after the conference, either as a short video or a two-page report highlighting the benefits of attending the conference.
+- Highlight the impact on their own research, overall technical knowledge increase, and technical exchanges and potential collaboration with other attendees.
+
+## Important Dates
+
+- **Deadline**: September 11th
+
+## STG Committee
+
+- Andrea Baiocchi, Università La Sapienza, Italy
+- Lea Skorin-Kapov, University of Zagreb, Croatia
+- Daniela Renga, Politecnico di Torino, Italy
 
 
-### Important dates
-Registration is open from **TODO**<br/>
-Application submission deadline: **TODO**<br/>
-Recommendation submission deadline: **TODO**<br/>
-Decisions/notification: **TODO**<br/>
-Two-page report: **TODO**<br/>
-
-### STG Committee
-**TODO**<br/>
-Contact: **<mailto:TODO>** -->
