@@ -21,8 +21,8 @@ The application from the student should provide:
 
 The application, letter, and CV must be sent to:
 
-- Andrea Baiocchi: [andrea.baiocchi@uniroma1.it](mailto:andrea.baiocchi@uniroma1.it)
-- Lea Skorin-Kapov: [Lea.Skorin-Kapov@fer.hr](mailto:Lea.Skorin-Kapov@fer.hr)
+- **Andrea Baiocchi**: [andrea.baiocchi@uniroma1.it](mailto:andrea.baiocchi@uniroma1.it)
+- **Lea Skorin-Kapov**: [Lea.Skorin-Kapov@fer.hr](mailto:Lea.Skorin-Kapov@fer.hr)
 
 ## Responsibilities of Selected Students
 
@@ -38,8 +38,8 @@ If selected, the student is expected to:
 
 ## STG Committee
 
-- Andrea Baiocchi, Università La Sapienza, Italy
-- Lea Skorin-Kapov, University of Zagreb, Croatia
-- Daniela Renga, Politecnico di Torino, Italy
+- **Andrea Baiocchi**, Università La Sapienza, Italy
+- **Lea Skorin-Kapov**, University of Zagreb, Croatia
+- **Daniela Renga**, Politecnico di Torino, Italy
 
 
