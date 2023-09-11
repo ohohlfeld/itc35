@@ -10,8 +10,8 @@ The program will be available soon.
 
 **Welcome Cocktail**
 - **Date:** 3 October 
-- **Location:** Pastis, Piazza Emanuele Filiberto 9
+- **Location:** [Pastis](https://pastistorino.com/), Piazza Emanuele Filiberto 9
 
 **Social Dinner**
 - **Date:** 4 October
-- **Location:** Unione Industriale - Circolo Ristorante La Posta, Via Vela, 15
+- **Location:** [Unione Industriale - Circolo Ristorante La Posta](https://www.ccui.it/it/home), Via Vela, 15
