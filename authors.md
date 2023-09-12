@@ -4,6 +4,11 @@ menu: top-nav
 menu-index: 2
 ---
 
+# Presentation guidelines
+
+* Each long paper will be allocated a slot of 26 minutes, including 22 minutes for presentation and 4 minutes for questions and answers and swap time.
+* Each short paper will be allocated a slot of 22 minutes, including 18 minutes for presentation and 4 minutes for questions and answers and swap time.
+  
 # Author Information
 
 ## Submission guidelines
