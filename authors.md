@@ -4,13 +4,13 @@ menu: top-nav
 menu-index: 2
 ---
 
-# Presentation guidelines
+# Author Information
+
+## Presentation guidelines
 
 * Each long paper will be allocated a slot of 26 minutes, including 22 minutes for presentation and 4 minutes for questions and answers and swap time.
 * Each short paper will be allocated a slot of 22 minutes, including 18 minutes for presentation and 4 minutes for questions and answers and swap time.
   
-# Author Information
-
 ## Submission guidelines
 
 * Submitted papers must be original work, not under review at other journals/conferences, and may comprise of a maximum of 9 (full papers) or 5 (short papers) A4 in 2-column IEEE conference style with a minimum font size of 10 pt. Papers should be submitted electronically using [**HotCRP**]( https://itc2023.hotcrp.com/). All accepted papers must be presented at the conference by one of the authors.
