@@ -7,10 +7,10 @@ menu-index: 9
 
 The main conference and the workshops will be hosted at the **Politecnico di Torino**, at the following address:
 
-Corso Duca degli Abruzzi, 24<br>
+[Corso Castelfidardo, Building Scavalchi Manica Approdo, Fifth Floor](https://www.polito.it/ateneo/chi-siamo/sedi-e-mappe?sellocale=bl_id%253DTO_CIT11%2526fl_id%253DXP05%2526rm_id%253D044&lang=en)<br>
 10129 Torino, Italy<br>
 
-To see the location on Google maps, please [click here](https://www.google.it/maps/place/Corso+Duca+degli+Abruzzi,+24,+10129+Torino+TO/@45.0623496,7.6615164,17.38z/data=!4m6!3m5!1s0x47886d1823ab8863:0xf4d8ac6f3d1d0dda!8m2!3d45.0625359!4d7.662391!15sChxDb3JzbyBEdWNhIGRlZ2xpIEFicnV6emksIDI0kgEQZ2VvY29kZWRfYWRkcmVzcw?shorturl=1).<br>
+To see the location on Google maps, please [click here](https://www.google.com/maps/dir//45.063219,7.658061/@45.0630193,7.6586097,18.7z?entry=ttu).<br>
 The room that will be used for the main conference is the **Maxwell Conference Room** that is reached as shown in [this page](https://www.polito.it/ateneo/chi-siamo/sedi-e-mappe?bl_id=TO_CIT11&fl_id=XP05&rm_id=044&lang=en).<br> The Conference Room is located at the 5th floor, and is reached with either one of the two elevators that are behind the glass doors in the position shown in the map.
 
 ## Hotels
