@@ -67,7 +67,7 @@ He evaluated many research proposals and projects in EU programs and served as T
         <td width="250" align="center">
             <b>Nicola Blefari-Melazzi</b><br>
              University of Roma Tor Vergata<br>
-            <a href="mailto:blefari at uniroma2.it">blefari at uniroma2.it</a>
+            <a href="mailto:blefari@uniroma2.it">blefari@uniroma2.it</a>
         </td>
     </tr>
   </tbody>
