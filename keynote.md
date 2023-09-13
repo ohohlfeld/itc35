@@ -46,31 +46,35 @@ Its therefore necessary to establish a clear, traceable, and replicable methodol
 </p>
 
 
-## Changes in economics and strategy, culture and organizations, skills and capabilities
+## The age of fragmentation (or the end of the Internet as we knew it)
 <table>
     <tbody><tr>
         <br>
         <td  width="250" height="300" align="center">
-            <img src="{{ site.baseurl }}/assets/images/keynote/Colin.jpg" alt="Colin Maclay" width="220" height="300">
+            <img src="{{ site.baseurl }}/assets/images/keynote/Melazzi.jpg" alt="Melazzi" width="220" height="300">
         </td>
         <td height="250">
             <p style="font-size:15px height=250">
-Colin M. Maclay is executive director of the Annenberg Innovation Lab, research professor of communication at the University of Southern California and a hacker of higher education. Maclay seeks to better understand how radical changes in communication capacity, information generation and processing interact with people, organizations and institutions. He connects people and ideas, helping them to explore and guide the interaction of technology and society such that it does not undermine, but fosters human and planetary wellbeing. Maclay’s work recognizes that while media and technology are complicated – and humans perhaps more so – their interaction is profoundly complex. Creating a tight loop between scholarship and practice, bridging disciplines and sectors, challenging hierarchies and orthodoxies are core to Colin’s practice, and have drawn him to diverse organizations and communities around the world. Ongoing interests include environmental justice and sustainability, civic media and public entrepreneurship, online expression and privacy, policy and technology infrastructures, and emerging institutions and governance.  Previously, Colin spent more than a decade helping to build and lead the Berkman Klein Center for Internet & Society at Harvard University, and founded the Harvard Business School’s Digital Initiative. 
+Nicola Blefari-Melazzi is a full Professor of Telecommunications at the University of Roma Tor Vergata, where he served as Chair of the PhD program in Telecommunications Engineering, Chair of the undergraduate and graduate programs in Telecommunications Engineering and Chair of the Department of Electronic Engineering. From January 2017 to January 2023 he has been the Director of CNIT (National Inter-University Consortium for Telecommunications), a non-profit Consortium made up of 41 Italian Universities. More than 1,300 people, belonging to the participating universities, collaborate with CNIT, while the number of own-employees is more than 100. Since January 2023 he is the president of CNIT.
+
+His research projects have been funded by Italian Ministries, by the Italian National Research Council, by major companies (e.g., Ericsson, Telecom Italia), by the ESA and by the EU. He has participated in 33 EU projects, playing the role of project coordinator and PI for seven of them. He has been a member of the board of the 5G Infrastructure Association, the private side of the 5G Public Private Partnership, a joint initiative between the European ICT sector and the European Commission, which funded with a 1.4 Billion Euro budget the R&D on 5G. He is still a member of the 5G Infrastructure Association, now re-named 6G Infrastructure Association, that recently founded the Smart Networks and Services Joint Undertaking together with the European Commission, which is funding with 900 MEUR the research and development for 6G and related technologies. He has been appointed by the Ministry of University and Research as Italian representative in the Member States’ Representatives Group of such Smart Networks and Services Joint Undertaking. Since September 2022, he is the President of the RESTART Foundation, established primarily for the implementation, coordination and management of the 116 M€ MUR-funded research program “Telecommunications of the Future”.
+
+He evaluated many research proposals and projects in EU programs and served as TPC member, TPC Chair, General Chair and Steering Committee Chair for IEEE Conferences and guest editor for IEEE Journals. He has been an area editor for Elsevier’s Computer Networks. He is author/co-author of about 260 papers. His research interests lie in the performance evaluation, design and control of telecommunications networks.
             </p>
         </td>
     </tr>
     <tr>
         <td width="250" align="center">
-            <b>Colin M. Maclay</b><br>
-             Annenberg Innovation Lab<br>
-            <a href="mailto:c.mac@usc.edu">c.mac@usc.edu</a>
+            <b>Nicola Blefari-Melazzi</b><br>
+             University of Roma Tor Vergata<br>
+            <a href="mailto:blefari at uniroma2.it">blefari at uniroma2.it</a>
         </td>
     </tr>
   </tbody>
 </table>
 
 <p>
-Where do we go from here…and how do we get there? Decades of incredible technological advances have yielded great gains, exciting potential and…serious challenges. While technological and human systems are individually complicated, the interaction between them is profoundly complex and has led to unintended consequences, limited progress and lost opportunity. We have improved our understanding of these dynamics, but everything from unquestioned orthodoxies to ill-prepared institutions have limited our ability to address them beneficially. In this period of accelerating and dynamic change, we need to develop new approaches, mindsets and goals. Rather than starting anew, our learnings and experiences suggest promising alternatives. Further, while the scale and scope of 21st century problems are daunting — including sustainability, democracies, poorly distributed wealth and opportunity, global public health, war in Europe — each of us can contribute in the ways we do our work and participate in our communities. Indeed, with so many large institutions hard-pressed to respond to the moment, it is incumbent upon us to engage in ways that guide, inspire and demand collective progress.
+
 </p>
 
 ## Current and upcoming challenges of automated network management in practice
