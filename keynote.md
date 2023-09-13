@@ -50,8 +50,8 @@ Its therefore necessary to establish a clear, traceable, and replicable methodol
 <table>
     <tbody><tr>
         <br>
-        <td  width="350" height="285" align="center">
-            <img src="{{ site.baseurl }}/assets/images/keynote/Melazzi.jpg" alt="Melazzi" width="350" height="285">
+        <td  width="300" height="250" align="center">
+            <img src="{{ site.baseurl }}/assets/images/keynote/Melazzi_cut.jpg" alt="Melazzi" width="300" height="250">
         </td>
         <td height="250">
             <p style="font-size:15px height=250">
