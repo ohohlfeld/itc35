@@ -50,7 +50,7 @@ Its therefore necessary to establish a clear, traceable, and replicable methodol
 <table>
     <tbody><tr>
         <br>
-        <td  width="300" height="250" align="center">
+        <td  width="250" height="250" align="center">
             <img src="{{ site.baseurl }}/assets/images/keynote/Melazzi_cut.jpg" alt="Melazzi" width="200">
         </td>
         <td height="250">
