@@ -74,7 +74,10 @@ He evaluated many research proposals and projects in EU programs and served as T
 </table>
 
 <p>
-
+The Internet as a whole, including access technologies and cellular networks, has undergone a significant evolution since its original setup. However, key TCP/IP functionalities, such as multicast and service differentiation, have not been widely deployed and core protocols have not always kept up with advancements. Meanwhile, the number and diversity of online applications and content have skyrocketed, not to mention the amount of traffic they generate, while network operators encountered difficulties in diversifying their portfolio of services. In addition, business models have changed a lot and new ones have emerged.
+The combination of these factors has resulted in two momentous outcomes: i) the network is diverse and patchy, with performance greatly varying across different regions, whereas important functionalities are provided unevenly and/or as network overlays; ii) new players have entered the market, narrowing the role of traditional network providers: hyperscalers, providing applications and content as well as cloud services and connectivity; CDN providers; cybersecurity providers; IXPs and intermediaries, but also new connectivity providers, such as utilities and municipalities and, importantly, non-public networks and neutral hosts.
+Despite impressive improvements in network protocols and performance, the question remains whether the architecture and current service offerings of the public Internet are at par with the requests of users, and especially of innovative businesses.
+This talk will discuss some options for the evolution of the network, analysing the role of stakeholders in the changing landscape, identifying open challenges and arguing that without remedial actions there is the possibility of antitrust authorities intervening, potentially causing disruptions in the sector.
 </p>
 
 ## Current and upcoming challenges of automated network management in practice
