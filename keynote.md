@@ -51,7 +51,7 @@ Its therefore necessary to establish a clear, traceable, and replicable methodol
     <tbody><tr>
         <br>
         <td  width="250" height="250" align="center">
-            <img src="{{ site.baseurl }}/assets/images/keynote/Melazzi_cut.jpg" alt="Melazzi" width="200">
+            <img src="{{ site.baseurl }}/assets/images/keynote/Melazzi_long.jpg" alt="Melazzi" width="200">
         </td>
         <td height="250">
             <p style="font-size:15px height=250">
