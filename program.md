@@ -13,57 +13,57 @@ menu-index: 6
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ltxa{background-color:#ffccc9;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-cmwg{background-color:#ffccc9;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig">Time</th>
-    <th class="tg-1wig">Activity</th>
+    <th class="tg-amwm">Time</th>
+    <th class="tg-amwm">Activity</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">8:30 - 9:00</td>
-    <td class="tg-0lax">Registration</td>
+    <td class="tg-baqh">8:30 - 9:00</td>
+    <td class="tg-baqh">Registration</td>
   </tr>
   <tr>
-    <td class="tg-0lax">9:00 - 9:20</td>
-    <td class="tg-0lax">Opening</td>
+    <td class="tg-cmwg">9:00 - 9:20</td>
+    <td class="tg-cmwg">Opening</td>
   </tr>
   <tr>
-    <td class="tg-0lax">09:20 - 10:20</td>
-    <td class="tg-0lax">Keynote by Dr. Stefan Köhler and Dr. David Hock: Current and upcoming challenges of automated network management in practice</td>
+    <td class="tg-baqh">09:20 - 10:20</td>
+    <td class="tg-baqh">Keynote by Dr. Stefan Köhler and Dr. David Hock: Current and upcoming challenges of automated network management in practice</td>
   </tr>
   <tr>
-    <td class="tg-ltxa">10:20 - 10:50</td>
-    <td class="tg-ltxa">Coffee</td>
+    <td class="tg-cmwg">10:20 - 10:50</td>
+    <td class="tg-cmwg">Coffee</td>
   </tr>
   <tr>
-    <td class="tg-0lax">10:50 - 12:30</td>
-    <td class="tg-0lax">Technical Session: Performance analysis and optimization</td>
+    <td class="tg-baqh">10:50 - 12:30</td>
+    <td class="tg-baqh">Technical Session: Performance analysis and optimization</td>
   </tr>
   <tr>
-    <td class="tg-ltxa">12:30 - 14:00</td>
-    <td class="tg-ltxa">Lunch</td>
+    <td class="tg-cmwg">12:30 - 14:00</td>
+    <td class="tg-cmwg">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-0lax">14:00 - 15:45</td>
-    <td class="tg-0lax">Invited session: What's new in TOMPECS</td>
+    <td class="tg-baqh">14:00 - 15:45</td>
+    <td class="tg-baqh">Invited session: What's new in TOMPECS</td>
   </tr>
   <tr>
-    <td class="tg-ltxa">15:45 - 16:15</td>
-    <td class="tg-ltxa">Coffee</td>
+    <td class="tg-cmwg">15:45 - 16:15</td>
+    <td class="tg-cmwg">Coffee</td>
   </tr>
   <tr>
-    <td class="tg-0lax">16:15 - 17:30</td>
-    <td class="tg-0lax">Technical session: Virtualization and wireless</td>
+    <td class="tg-baqh">16:15 - 17:30</td>
+    <td class="tg-baqh">Technical session: Virtualization and wireless</td>
   </tr>
   <tr>
-    <td class="tg-ltxa">19:00</td>
-    <td class="tg-ltxa">Welcome Reception</td>
+    <td class="tg-cmwg">19:00</td>
+    <td class="tg-cmwg">Welcome Reception</td>
   </tr>
 </tbody>
 </table>
