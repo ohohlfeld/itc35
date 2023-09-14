@@ -134,7 +134,7 @@ menu-index: 6
 
 
 ## Day 3 (5 Oct 2023)
-<br\>
+<br>
 <div align="center">
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -156,7 +156,7 @@ menu-index: 6
 <tbody>
   <tr>
     <td class="tg-wp8o">09:00 - 10:00</td>
-    <td class="tg-wp8o">Keynote by Prof. Silvia Giordano: <br>Social Media, Privacy and Regulation</td>
+    <td class="tg-wp8o">Keynote by Prof. Silvia Giordano: Social Media, Privacy and Regulation</td>
   </tr>
   <tr>
     <td class="tg-r31r">10:00 - 10:30</td>
