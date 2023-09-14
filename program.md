@@ -135,6 +135,7 @@ menu-index: 6
 
 ## Day 3 (5 Oct 2023)
 <br\>
+<div align="center">
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
@@ -179,7 +180,7 @@ menu-index: 6
   </tr>
 </tbody>
 </table>
-
+</div>
 **Invited session: What's new in PEVA (10:30-12:15)**
   - Nikhil Jha, Luca Vassio, Martino Trevisan, Emilio Leonardi, Marco Mellia, "Practical anonymization for data streams: z-anonymity and relation with k-anonymity", Performance Evaluation, Volume 159, Article 102329, January 2023.
   - Thi Thuy Nga Nguyen, Olivier Brun, and Balakrishna J. Prabhu, "A learning-based scheme for channel allocation to vehicular users in wireless networks", Performance Evaluation, Volume 159, Article 102331, January 2023.
