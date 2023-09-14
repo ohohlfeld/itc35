@@ -181,7 +181,7 @@ menu-index: 6
 </tbody>
 </table>
 </div>
-
+<br>
 **Invited session: What's new in PEVA (10:30-12:15)**
   - Nikhil Jha, Luca Vassio, Martino Trevisan, Emilio Leonardi, Marco Mellia, "Practical anonymization for data streams: z-anonymity and relation with k-anonymity", Performance Evaluation, Volume 159, Article 102329, January 2023.
   - Thi Thuy Nga Nguyen, Olivier Brun, and Balakrishna J. Prabhu, "A learning-based scheme for channel allocation to vehicular users in wireless networks", Performance Evaluation, Volume 159, Article 102331, January 2023.
