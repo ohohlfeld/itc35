@@ -136,14 +136,37 @@ menu-index: 6
 
 ## Day 3 (5 Oct 2023)
 
-| Time          | Activity                                       |
-|---------------|------------------------------------------------|
-| 09:00 - 10:00  | Keynote by Prof. Silvia Giordano: Social Media, Privacy and Regulation|
-| 10:00 - 10:30  | Coffee                                         |
-| 10:30 - 12:15  | Invited session: What's new in PEVA           |
-| 12:15 - 13:45  | Lunch                                          |
-| 13:45 - 15:00  | Technical Session: Learning and its applications |
-| 15:00 - 15:30  | Closing remarks                               |
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td>09:00 - 10:00</td>
+    <td>Keynote by Prof. Silvia Giordano: Social Media, Privacy and Regulation</td>
+  </tr>
+  <tr>
+    <td>10:00 - 10:30</td>
+    <td>Coffee</td>
+  </tr>
+  <tr>
+    <td>10:30 - 12:15</td>
+    <td>Invited session: What's new in PEVA</td>
+  </tr>
+  <tr>
+    <td>12:15 - 13:45</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>13:45 - 15:00</td>
+    <td>Technical Session: Learning and its applications</td>
+  </tr>
+  <tr>
+    <td>15:00 - 15:30</td>
+    <td>Closing remarks</td>
+  </tr>
+</table>
+
 
 - **Invited session: What's new in PEVA (10:30-12:15)**
   - Nikhil Jha, Luca Vassio, Martino Trevisan, Emilio Leonardi, Marco Mellia, "Practical anonymization for data streams: z-anonymity and relation with k-anonymity", Performance Evaluation, Volume 159, Article 102329, January 2023.
