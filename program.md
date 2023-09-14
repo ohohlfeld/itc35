@@ -52,18 +52,18 @@ menu-index: 6
   </tr>
 </table>
 
-- **Technical Session: Performance analysis and optimization (10:50-12:30)**
+**Technical Session: Performance analysis and optimization (10:50-12:30)**
   - Network-Calculus Service Curves of the Interleaved Regulator. Authors: Ludovic Thomas, Jean-Yves Le Boudec (École Polytechnique Fédérale de Lausanne)
   - Optimal Resource Management for Multi-access Edge Computing without using Cross-layer Communication. Authors: Ankita Koley, Chandramani Singh (Indian Institute of Science, Bangalore)
   - Optimizing Peak Age of Information in Mobile Edge Computing. Authors: Jianhang Zhu, Jie Gong (Sun Yat-Sen University)
   - Spatial Queues with Nearest Neighbour Shifts. Authors: Vinay Kumar Bindiganavile Ramadas (INRIA Sophia Antipolis)
 
-- **Invited session : What's new in TOMPECS (14:00-15:45)**
+**Invited session : What's new in TOMPECS (14:00-15:45)**
   - Thomas Tournaire, Hind Castel, and Emmanuel Hyon, "Efficient Computation of Optimal Thresholds in Cloud Auto-scaling Systems", ACM Transactions on Modeling and Performance Evaluation of Computing Systems, Volume 8, Issue 4, Article No.: 9, December 2023.
   - Tareq Si Salem, Giovanni Neglia, Stratis Ioannidis, "No-regret Caching via Online Mirror Descent", ACM Transactions on Modeling and Performance Evaluation of Computing Systems, Volume 8, Issue 4, Article No.: 11, December 2023.
   - Ashok Krishnan K. S., Chandramani Singh, Siva Theja Maguluri, Parimal Parag, "Optimal Pricing in a Single Server System", ACM Transactions on Modeling and Performance Evaluation of Computing Systems, Volume 8, Issue 4, Article No.: 12, December 2023.
 
-- **Technical Session: Virtualization and wireless (16:15-17:30)**
+**Technical Session: Virtualization and wireless (16:15-17:30)**
   - Containing Low Tail-Latencies in Packet Processing Using Lightweight Virtualization. Authors: Florian Wiedner, Max Helm, Alexander Daichendt, Jonas Andre, Georg Carle (Technical University of Munich)
   - Grant-free transmissions based on successive interference cancellation in IoT. Authors: Asmad Bin Abdul Razzaque, Andrea Baiocchi (University of Rome Sapienza)
   - An Outdoor Experimental Study of Many Antenna Full-Duplex Wireless. Authors: Hadi Hosseini, Ahmed Almutairi (Portland State University); Syed Muhammad Hashir (Southern Methodist University); Ehsan Aryafar (Portland State University); Joseph Camp (Southern Methodist University)
@@ -122,13 +122,12 @@ menu-index: 6
   </tr>
 </table>
 
-
-- **Invited session: What's new in COMNET (10:30-12:15)**
+**Invited session: What's new in COMNET (10:30-12:15)**
   - Daniele Bringhenti, Riccardo Sisto, Fulvio Valenza, "A novel abstraction for security configuration in virtual networks", Computer Networks, Volume 228, Article 109745, June 2023.
   - Sebastian Troia, Marco Savi, Giulia Nava, Ligia Maria Moreira Zorello, Thomas Schneider, and Guido Maier, "Performance characterization and profiling of chained CPU-bound Virtual Network Functions", Computer Networks, Volume 231, Article 109815, July 2023.
   - Afonso Oliveira and Teresa Vazão, "Towards green machine learning for resource allocation in beyond 5G RAN slicing", Computer Networks, Volume 233, Article 109877, September 2023.
 
-- **Technical Session: Traffic-related topics (13:45-15:00)**
+**Technical Session: Traffic-related topics (13:45-15:00)**
   - Automated Identification of BBR Traffic based on Packet Inter-Arrival Times Analysis. Authors: Ziad TLAISS (IMT Atlantique); Alexandre FERRIEUX (Orange Labs Networks); Isabel AMIGO (IMT Atlantique); Isabelle HAMCHAOUI (Orange Labs Networks); Sandrine VATON (IMT Atlantique)
   - DARTA: Generation of Autocorrelated Random Numbers using Discrete AutoRegression To Anything. Authors: Stefan Geißler, David Raunecker (University of Wuerzburg); Stanislav Lange (NTNU); Tobias Hossfeld (University of Wuerzburg)
   - Estimating Traffic Latent Due to QoS Deterioration: A Time-Series Causal Inference Approach. Authors: Keisuke Ishibashi (International Christian University); Takumi Uchida (ComWorth Co., Ltd.)
