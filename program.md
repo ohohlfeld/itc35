@@ -136,37 +136,48 @@ menu-index: 6
 
 ## Day 3 (5 Oct 2023)
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-    <th>Time</th>
-    <th>Activity</th>
+    <th class="tg-wp8o">Time</th>
+    <th class="tg-wp8o">Activity</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wp8o">09:00 - 10:00</td>
+    <td class="tg-wp8o">Keynote by Prof. Silvia Giordano: Social Media, Privacy and Regulation</td>
   </tr>
   <tr>
-    <td>09:00 - 10:00</td>
-    <td>Keynote by Prof. Silvia Giordano: Social Media, Privacy and Regulation</td>
+    <td class="tg-wp8o">10:00 - 10:30</td>
+    <td class="tg-wp8o">Coffee</td>
   </tr>
   <tr>
-    <td>10:00 - 10:30</td>
-    <td>Coffee</td>
+    <td class="tg-wp8o">10:30 - 12:15</td>
+    <td class="tg-wp8o">Invited session: What's new in PEVA</td>
   </tr>
   <tr>
-    <td>10:30 - 12:15</td>
-    <td>Invited session: What's new in PEVA</td>
+    <td class="tg-wp8o">12:15 - 13:45</td>
+    <td class="tg-wp8o">Lunch</td>
   </tr>
   <tr>
-    <td>12:15 - 13:45</td>
-    <td>Lunch</td>
+    <td class="tg-wp8o">13:45 - 15:00</td>
+    <td class="tg-wp8o">Technical Session: Learning and its applications</td>
   </tr>
   <tr>
-    <td>13:45 - 15:00</td>
-    <td>Technical Session: Learning and its applications</td>
+    <td class="tg-wp8o">15:00 - 15:30</td>
+    <td class="tg-wp8o">Closing remarks</td>
   </tr>
-  <tr>
-    <td>15:00 - 15:30</td>
-    <td>Closing remarks</td>
-  </tr>
+</tbody>
 </table>
-
 
 - **Invited session: What's new in PEVA (10:30-12:15)**
   - Nikhil Jha, Luca Vassio, Martino Trevisan, Emilio Leonardi, Marco Mellia, "Practical anonymization for data streams: z-anonymity and relation with k-anonymity", Performance Evaluation, Volume 159, Article 102329, January 2023.
