@@ -143,30 +143,32 @@ menu-index: 6
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-r31r{background-color:#ffccc9;border-color:#000000;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-wp8o">Time</th>
-    <th class="tg-wp8o">Activity</th>
+    <th class="tg-mqa1">Time</th>
+    <th class="tg-mqa1">Activity</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-wp8o">09:00 - 10:00</td>
-    <td class="tg-wp8o">Keynote by Prof. Silvia Giordano: Social Media, Privacy and Regulation</td>
+    <td class="tg-wp8o">Keynote by Prof. Silvia Giordano: <br>Social Media, Privacy and Regulation</td>
   </tr>
   <tr>
-    <td class="tg-wp8o">10:00 - 10:30</td>
-    <td class="tg-wp8o">Coffee</td>
+    <td class="tg-r31r">10:00 - 10:30</td>
+    <td class="tg-r31r">Coffee</td>
   </tr>
   <tr>
     <td class="tg-wp8o">10:30 - 12:15</td>
     <td class="tg-wp8o">Invited session: What's new in PEVA</td>
   </tr>
   <tr>
-    <td class="tg-wp8o">12:15 - 13:45</td>
-    <td class="tg-wp8o">Lunch</td>
+    <td class="tg-r31r">12:15 - 13:45</td>
+    <td class="tg-r31r">Lunch</td>
   </tr>
   <tr>
     <td class="tg-wp8o">13:45 - 15:00</td>
