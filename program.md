@@ -109,7 +109,7 @@ menu-index: 6
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh">09:00 - 10:00</td>
+    <td class="tg-baqh">9:00 - 10:00</td>
     <td class="tg-baqh">Keynote by Prof. Nicola Blefari-Melazzi: The age of fragmentation (or the end of the Internet as we knew it)</td>
   </tr>
   <tr>
@@ -186,7 +186,7 @@ menu-index: 6
 </thead>
 <tbody>
   <tr>
-    <td class="tg-wp8o">09:00 - 10:00</td>
+    <td class="tg-wp8o">9:00 - 10:00</td>
     <td class="tg-wp8o">Keynote by Prof. Silvia Giordano: Social Media, Privacy and Regulation</td>
   </tr>
   <tr>
