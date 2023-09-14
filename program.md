@@ -5,52 +5,70 @@ menu-index: 6
 ---
 
 ## Day 1 (3 Oct 2023)
-<table>
+<br>
+<div align="center">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ltxa{background-color:#ffccc9;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-    <th>**Time**</th>
-    <th>**Activity**</th>
+    <th class="tg-1wig">Time</th>
+    <th class="tg-1wig">Activity</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">8:30 - 9:00</td>
+    <td class="tg-0lax">Registration</td>
   </tr>
   <tr>
-    <td>8:30 - 9:00</td>
-    <td>Registration</td>
+    <td class="tg-0lax">9:00 - 9:20</td>
+    <td class="tg-0lax">Opening</td>
   </tr>
   <tr>
-    <td>9:00 - 9:20</td>
-    <td>Opening</td>
+    <td class="tg-0lax">09:20 - 10:20</td>
+    <td class="tg-0lax">Keynote by Dr. Stefan Köhler and Dr. David Hock: Current and upcoming challenges of automated network management in practice</td>
   </tr>
   <tr>
-    <td>09:20 - 10:20</td>
-    <td>Keynote by Dr. Stefan Köhler and Dr. David Hock: Current and upcoming challenges of automated network management in practice</td>
+    <td class="tg-ltxa">10:20 - 10:50</td>
+    <td class="tg-ltxa">Coffee</td>
   </tr>
   <tr>
-    <td>10:20 - 10:50</td>
-    <td>Coffee</td>
+    <td class="tg-0lax">10:50 - 12:30</td>
+    <td class="tg-0lax">Technical Session: Performance analysis and optimization</td>
   </tr>
   <tr>
-    <td>10:50 - 12:30</td>
-    <td>Technical Session: Performance analysis and optimization</td>
+    <td class="tg-ltxa">12:30 - 14:00</td>
+    <td class="tg-ltxa">Lunch</td>
   </tr>
   <tr>
-    <td>12:30 - 14:00</td>
-    <td>Lunch</td>
+    <td class="tg-0lax">14:00 - 15:45</td>
+    <td class="tg-0lax">Invited session: What's new in TOMPECS</td>
   </tr>
   <tr>
-    <td>14:00 - 15:45</td>
-    <td>Invited session: What's new in TOMPECS</td>
+    <td class="tg-ltxa">15:45 - 16:15</td>
+    <td class="tg-ltxa">Coffee</td>
   </tr>
   <tr>
-    <td>15:45 - 16:15</td>
-    <td>Coffee</td>
+    <td class="tg-0lax">16:15 - 17:30</td>
+    <td class="tg-0lax">Technical session: Virtualization and wireless</td>
   </tr>
   <tr>
-    <td>16:15 - 17:30</td>
-    <td>Technical session: Virtualization and wireless</td>
+    <td class="tg-ltxa">19:00</td>
+    <td class="tg-ltxa">Welcome Reception</td>
   </tr>
-  <tr>
-    <td>19:00</td>
-    <td>Welcome Reception</td>
-  </tr>
+</tbody>
 </table>
+</div>
+<br>
 
 **Technical Session: Performance analysis and optimization (10:50-12:30)**
   - Network-Calculus Service Curves of the Interleaved Regulator. Authors: Ludovic Thomas, Jean-Yves Le Boudec (École Polytechnique Fédérale de Lausanne)
@@ -70,57 +88,70 @@ menu-index: 6
 
 
 ## Day 2 (4 Oct 2023)
-
-<table>
+<br>
+<div align="center">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ltxa{background-color:#ffccc9;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-    <th>**Time**</th>
-    <th>**Activity**</th>
+    <th class="tg-1wig">Time</th>
+    <th class="tg-1wig">Activity</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">09:00 - 10:00</td>
+    <td class="tg-0lax">Keynote by Prof. Nicola Blefari-Melazzi: The age of fragmentation (or the end of the Internet as we knew it)</td>
   </tr>
   <tr>
-    <td>09:00 - 10:00</td>
-    <td>Keynote by Prof. Nicola Blefari-Melazzi: The age of fragmentation (or the end of the Internet as we knew it)</td>
+    <td class="tg-ltxa">10:00 - 10:30</td>
+    <td class="tg-ltxa">Coffee</td>
   </tr>
   <tr>
-    <td>10:00 - 10:30</td>
-    <td>Coffee</td>
+    <td class="tg-0lax">10:30 - 12:15</td>
+    <td class="tg-0lax">Invited session: What's new in COMNET</td>
   </tr>
   <tr>
-    <td>10:30 - 12:15</td>
-    <td>Invited session: What's new in COMNET</td>
+    <td class="tg-ltxa">12:15 - 13:45</td>
+    <td class="tg-ltxa">Lunch</td>
   </tr>
   <tr>
-    <td>12:15 - 13:45</td>
-    <td>Lunch</td>
+    <td class="tg-0lax">13:45 - 15:00</td>
+    <td class="tg-0lax">Technical session: Traffic-related topics</td>
   </tr>
   <tr>
-    <td>13:45 - 15:00</td>
-    <td>Technical session: Traffic-related topics</td>
+    <td class="tg-0lax">15:00 - 16:00</td>
+    <td class="tg-0lax">PhD Workshop Part1</td>
   </tr>
   <tr>
-    <td>15:00 - 16:00</td>
-    <td>PhD Workshop Part1</td>
+    <td class="tg-ltxa">16:00 - 16:30</td>
+    <td class="tg-ltxa">Coffee</td>
   </tr>
   <tr>
-    <td>15:00 - 16:00</td>
-    <td>Coffee</td>
+    <td class="tg-0lax">16:30 - 18:30</td>
+    <td class="tg-0lax">PhD Workshop Part 2</td>
   </tr>
   <tr>
-    <td>16:00 - 16:30</td>
-    <td>Coffee</td>
+    <td class="tg-0lax">15:00 - 16:00</td>
+    <td class="tg-0lax">Coffee</td>
   </tr>
   <tr>
-    <td>16:30 - 18:30</td>
-    <td>PhD Workshop Part 2</td>
+    <td class="tg-ltxa">20:00</td>
+    <td class="tg-ltxa">Social Dinner</td>
   </tr>
-  <tr>
-    <td>15:00 - 16:00</td>
-    <td>Coffee</td>
-  </tr>
-  <tr>
-    <td>20:00</td>
-    <td>Social Dinner</td>
-  </tr>
+</tbody>
 </table>
+</div>
+<br>
 
 **Invited session: What's new in COMNET (10:30-12:15)**
   - Daniele Bringhenti, Riccardo Sisto, Fulvio Valenza, "A novel abstraction for security configuration in virtual networks", Computer Networks, Volume 228, Article 109745, June 2023.
