@@ -67,7 +67,7 @@ menu-index: 6
 
 | Time          | Activity                                       |
 |---------------|------------------------------------------------|
-| 09:00 - 10:00  | Keynote 3                                      |
+| 09:00 - 10:00  | Keynote by Prof. Silvia Giordano: Social Media, Privacy and Regulation|
 | 10:00 - 10:30  | Coffee                                         |
 | 10:30 - 12:15  | Invited session: What's new in PEVA           |
 | 12:15 - 13:45  | Lunch                                          |
