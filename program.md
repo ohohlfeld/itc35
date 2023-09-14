@@ -179,12 +179,12 @@ menu-index: 6
 </tbody>
 </table>
 
-- **Invited session: What's new in PEVA (10:30-12:15)**
+**Invited session: What's new in PEVA (10:30-12:15)**
   - Nikhil Jha, Luca Vassio, Martino Trevisan, Emilio Leonardi, Marco Mellia, "Practical anonymization for data streams: z-anonymity and relation with k-anonymity", Performance Evaluation, Volume 159, Article 102329, January 2023.
   - Thi Thuy Nga Nguyen, Olivier Brun, and Balakrishna J. Prabhu, "A learning-based scheme for channel allocation to vehicular users in wireless networks", Performance Evaluation, Volume 159, Article 102331, January 2023.
   - B.R. Vinay Kumar, Navin Kashyap, and D. Yogeshwaran, "An analysis of probabilistic forwarding of coded packets on random geometric graphs", Performance Evaluation, Volume 160, Article 102343, May 2023.
 
-- **Technical Session: Learning and its applications (13:45-15:00)**
+**Technical Session: Learning and its applications (13:45-15:00)**
   - META MIMETIC: Few-Shot Classification of Mobile-App Encrypted Traffic via Multimodal Meta-Learning. Authors: Giampaolo Bovenzi (University of Napoli Federico II); Davide Di Monda (University of Napoli Federico II and IMT School for Advanced Studies); Antonio Montieri, Valerio Persico, Antonio Pescape (University of Napoli Federico II)
   - Beyond Mean: Spatio-Temporal Modeling of Queue Utilizations and Flow Latencies Using T-GNNs. Authors: Max Helm, Benedikt Jaeger, Christopher Pfefferle, Georg Carle (Technical University of Munich)
   - Data-Heterogeneous Hierarchical Federated Learning with Mobility. Authors: Tan Chen, Jintao Yan (Tsinghua University); Yuxuan Sun (Beijing Jiaotong University); Sheng Zhou (Tsinghua University); Deniz Gunduz (Imperial College London); Zhisheng Niu (Tsinghua University)
