@@ -96,57 +96,57 @@ menu-index: 6
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ltxa{background-color:#ffccc9;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-cmwg{background-color:#ffccc9;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig">Time</th>
-    <th class="tg-1wig">Activity</th>
+    <th class="tg-amwm">Time</th>
+    <th class="tg-amwm">Activity</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">09:00 - 10:00</td>
-    <td class="tg-0lax">Keynote by Prof. Nicola Blefari-Melazzi: The age of fragmentation (or the end of the Internet as we knew it)</td>
+    <td class="tg-baqh">09:00 - 10:00</td>
+    <td class="tg-baqh">Keynote by Prof. Nicola Blefari-Melazzi: The age of fragmentation (or the end of the Internet as we knew it)</td>
   </tr>
   <tr>
-    <td class="tg-ltxa">10:00 - 10:30</td>
-    <td class="tg-ltxa">Coffee</td>
+    <td class="tg-cmwg">10:00 - 10:30</td>
+    <td class="tg-cmwg">Coffee</td>
   </tr>
   <tr>
-    <td class="tg-0lax">10:30 - 12:15</td>
-    <td class="tg-0lax">Invited session: What's new in COMNET</td>
+    <td class="tg-baqh">10:30 - 12:15</td>
+    <td class="tg-baqh">Invited session: What's new in COMNET</td>
   </tr>
   <tr>
-    <td class="tg-ltxa">12:15 - 13:45</td>
-    <td class="tg-ltxa">Lunch</td>
+    <td class="tg-cmwg">12:15 - 13:45</td>
+    <td class="tg-cmwg">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-0lax">13:45 - 15:00</td>
-    <td class="tg-0lax">Technical session: Traffic-related topics</td>
+    <td class="tg-baqh">13:45 - 15:00</td>
+    <td class="tg-baqh">Technical session: Traffic-related topics</td>
   </tr>
   <tr>
-    <td class="tg-0lax">15:00 - 16:00</td>
-    <td class="tg-0lax">PhD Workshop Part1</td>
+    <td class="tg-baqh">15:00 - 16:00</td>
+    <td class="tg-baqh">PhD Workshop Part1</td>
   </tr>
   <tr>
-    <td class="tg-ltxa">16:00 - 16:30</td>
-    <td class="tg-ltxa">Coffee</td>
+    <td class="tg-cmwg">16:00 - 16:30</td>
+    <td class="tg-cmwg">Coffee</td>
   </tr>
   <tr>
-    <td class="tg-0lax">16:30 - 18:30</td>
-    <td class="tg-0lax">PhD Workshop Part 2</td>
+    <td class="tg-baqh">16:30 - 18:30</td>
+    <td class="tg-baqh">PhD Workshop Part 2</td>
   </tr>
   <tr>
-    <td class="tg-0lax">15:00 - 16:00</td>
-    <td class="tg-0lax">Coffee</td>
+    <td class="tg-baqh">15:00 - 16:00</td>
+    <td class="tg-baqh">Coffee</td>
   </tr>
   <tr>
-    <td class="tg-ltxa">20:00</td>
-    <td class="tg-ltxa">Social Dinner</td>
+    <td class="tg-cmwg">20:00</td>
+    <td class="tg-cmwg">Social Dinner</td>
   </tr>
 </tbody>
 </table>
