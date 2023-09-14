@@ -40,7 +40,7 @@ menu-index: 6
 
 | Time          | Activity                                   |
 |---------------|--------------------------------------------|
-| 09:00 - 10:00  | Keynote 2                                  |
+| 09:00 - 10:00  | Keynote by Prof. Nicola Blefari-Melazzi: The age of fragmentation (or the end of the Internet as we knew it)|
 | 10:00 - 10:30  | Coffee                                     |
 | 10:30 - 12:15  | Invited session: What's new in COMNET      |
 | 12:15 - 13:45  | Lunch                                      |
