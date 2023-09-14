@@ -10,7 +10,7 @@ menu-index: 6
 |---------------|----------------------------------------------|
 | 8:30 - 9:00    | Registration                                |
 | 9:00 - 9:20    | Opening                                      |
-| 09:20 - 10:20  | Keynote 1                                    |
+| 09:20 - 10:20  | Keynote by Dr. Stefan Köhler and Dr. David Hock: Current and upcoming challenges of automated network management in practice|
 | 10:20 - 10:50  | Coffee                                       |
 | 10:50 - 12:30  | Technical Session: Performance analysis and optimization |
 | 12:30 - 14:00  | Lunch                                        |
