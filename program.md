@@ -142,9 +142,9 @@ menu-index: 6
   padding:10px 5px;word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-r31r{background-color:#ffccc9;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-wp8o{border-color:#212529;text-align:center;vertical-align:top}
+.tg .tg-mqa1{border-color:#212529;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-r31r{background-color:#ffccc9;border-color:#212529;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
