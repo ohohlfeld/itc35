@@ -5,19 +5,52 @@ menu-index: 6
 ---
 
 ## Day 1 (3 Oct 2023)
-
-| Time          | Activity                                     |
-|---------------|----------------------------------------------|
-| 8:30 - 9:00    | Registration                                |
-| 9:00 - 9:20    | Opening                                      |
-| 09:20 - 10:20  | Keynote by Dr. Stefan Köhler and Dr. David Hock: Current and upcoming challenges of automated network management in practice|
-| 10:20 - 10:50  | Coffee                                       |
-| 10:50 - 12:30  | Technical Session: Performance analysis and optimization |
-| 12:30 - 14:00  | Lunch                                        |
-| 14:00 - 15:45  | Invited session: What's new in TOMPECS      |
-| 15:45 - 16:15  | Coffee                                       |
-| 16:15 - 17:30  | Technical session: Virtualization and wireless |
-| 19:00         | Welcome Reception                            |
+<table>
+  <tr>
+    <th>**Time**</th>
+    <th>**Activity**</th>
+  </tr>
+  <tr>
+    <td>8:30 - 9:00</td>
+    <td>Registration</td>
+  </tr>
+  <tr>
+    <td>9:00 - 9:20</td>
+    <td>Opening</td>
+  </tr>
+  <tr>
+    <td>09:20 - 10:20</td>
+    <td>Keynote by Dr. Stefan Köhler and Dr. David Hock: Current and upcoming challenges of automated network management in practice</td>
+  </tr>
+  <tr>
+    <td>10:20 - 10:50</td>
+    <td>Coffee</td>
+  </tr>
+  <tr>
+    <td>10:50 - 12:30</td>
+    <td>Technical Session: Performance analysis and optimization</td>
+  </tr>
+  <tr>
+    <td>12:30 - 14:00</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>14:00 - 15:45</td>
+    <td>Invited session: What's new in TOMPECS</td>
+  </tr>
+  <tr>
+    <td>15:45 - 16:15</td>
+    <td>Coffee</td>
+  </tr>
+  <tr>
+    <td>16:15 - 17:30</td>
+    <td>Technical session: Virtualization and wireless</td>
+  </tr>
+  <tr>
+    <td>19:00</td>
+    <td>Welcome Reception</td>
+  </tr>
+</table>
 
 - **Technical Session: Performance analysis and optimization (10:50-12:30)**
   - Network-Calculus Service Curves of the Interleaved Regulator. Authors: Ludovic Thomas, Jean-Yves Le Boudec (École Polytechnique Fédérale de Lausanne)
@@ -38,19 +71,57 @@ menu-index: 6
 
 ## Day 2 (4 Oct 2023)
 
-| Time          | Activity                                   |
-|---------------|--------------------------------------------|
-| 09:00 - 10:00  | Keynote by Prof. Nicola Blefari-Melazzi: The age of fragmentation (or the end of the Internet as we knew it)|
-| 10:00 - 10:30  | Coffee                                     |
-| 10:30 - 12:15  | Invited session: What's new in COMNET      |
-| 12:15 - 13:45  | Lunch                                      |
-| 13:45 - 15:00  | Technical session: Traffic-related topics |
-| 15:00 - 16:00  | PhD Workshop Part1                         |
-| 15:00 - 16:00  | Coffee                                     |
-| 16:00 - 16:30  | Coffee                                     |
-| 16:30 - 18:30  | PhD Workshop Part 2                         |
-| 15:00 - 16:00  | Coffee                                     |
-| 20:00         | Social Dinner                              |
+<table>
+  <tr>
+    <th>**Time**</th>
+    <th>**Activity**</th>
+  </tr>
+  <tr>
+    <td>09:00 - 10:00</td>
+    <td>Keynote by Prof. Nicola Blefari-Melazzi: The age of fragmentation (or the end of the Internet as we knew it)</td>
+  </tr>
+  <tr>
+    <td>10:00 - 10:30</td>
+    <td>Coffee</td>
+  </tr>
+  <tr>
+    <td>10:30 - 12:15</td>
+    <td>Invited session: What's new in COMNET</td>
+  </tr>
+  <tr>
+    <td>12:15 - 13:45</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>13:45 - 15:00</td>
+    <td>Technical session: Traffic-related topics</td>
+  </tr>
+  <tr>
+    <td>15:00 - 16:00</td>
+    <td>PhD Workshop Part1</td>
+  </tr>
+  <tr>
+    <td>15:00 - 16:00</td>
+    <td>Coffee</td>
+  </tr>
+  <tr>
+    <td>16:00 - 16:30</td>
+    <td>Coffee</td>
+  </tr>
+  <tr>
+    <td>16:30 - 18:30</td>
+    <td>PhD Workshop Part 2</td>
+  </tr>
+  <tr>
+    <td>15:00 - 16:00</td>
+    <td>Coffee</td>
+  </tr>
+  <tr>
+    <td>20:00</td>
+    <td>Social Dinner</td>
+  </tr>
+</table>
+
 
 - **Invited session: What's new in COMNET (10:30-12:15)**
   - Daniele Bringhenti, Riccardo Sisto, Fulvio Valenza, "A novel abstraction for security configuration in virtual networks", Computer Networks, Volume 228, Article 109745, June 2023.
