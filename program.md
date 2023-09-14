@@ -34,7 +34,7 @@ menu-index: 6
     <td class="tg-cmwg">Opening</td>
   </tr>
   <tr>
-    <td class="tg-baqh">09:20 - 10:20</td>
+    <td class="tg-baqh">9:20 - 10:20</td>
     <td class="tg-baqh">Keynote by Dr. Stefan Köhler and Dr. David Hock: Current and upcoming challenges of automated network management in practice</td>
   </tr>
   <tr>
