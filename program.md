@@ -141,10 +141,6 @@ menu-index: 6
     <td class="tg-baqh">PhD Workshop Part 2</td>
   </tr>
   <tr>
-    <td class="tg-baqh">15:00 - 16:00</td>
-    <td class="tg-baqh">Coffee</td>
-  </tr>
-  <tr>
     <td class="tg-cmwg">20:00</td>
     <td class="tg-cmwg">Social Dinner</td>
   </tr>
