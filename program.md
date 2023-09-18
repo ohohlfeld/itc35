@@ -156,7 +156,7 @@ menu-index: 6
 
 **Technical Session: Traffic-related topics (13:45-15:00)**
   - Automated Identification of BBR Traffic based on Packet Inter-Arrival Times Analysis. Authors: **Ziad TLAISS** (IMT Atlantique); Alexandre FERRIEUX (Orange Labs Networks); Isabel AMIGO (IMT Atlantique); Isabelle HAMCHAOUI (Orange Labs Networks); Sandrine VATON (IMT Atlantique)
-  - DARTA: Generation of Autocorrelated Random Numbers using Discrete AutoRegression To Anything. Authors: Stefan Geißler, David Raunecker (University of Wuerzburg); Stanislav Lange (NTNU); Tobias Hossfeld (University of Wuerzburg)
+  - DARTA: Generation of Autocorrelated Random Numbers using Discrete AutoRegression To Anything. Authors: Stefan Geißler, **David Raunecker** (University of Wuerzburg); Stanislav Lange (NTNU); Tobias Hossfeld (University of Wuerzburg)
   - Estimating Traffic Latent Due to QoS Deterioration: A Time-Series Causal Inference Approach. Authors: **Keisuke Ishibashi** (International Christian University); Takumi Uchida (ComWorth Co., Ltd.)
 
 
