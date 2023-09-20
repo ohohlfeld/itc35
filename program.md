@@ -43,7 +43,7 @@ menu-index: 6
   </tr>
   <tr>
     <td class="tg-baqh">10:50 - 12:30</td>
-    <td class="tg-baqh">Technical Session: Performance analysis and optimization</td>
+    <td class="tg-baqh">Technical Session: Performance analysis and optimization<br>Session chair: Daniela Renga</td>
   </tr>
   <tr>
     <td class="tg-cmwg">12:30 - 14:00</td>
@@ -51,7 +51,7 @@ menu-index: 6
   </tr>
   <tr>
     <td class="tg-baqh">14:00 - 15:45</td>
-    <td class="tg-baqh">Invited session: What's new in TOMPECS</td>
+    <td class="tg-baqh">Invited session: What's new in TOMPECS?<br>Session chair: Thomas Zinner</td>
   </tr>
   <tr>
     <td class="tg-cmwg">15:45 - 16:15</td>
@@ -59,7 +59,7 @@ menu-index: 6
   </tr>
   <tr>
     <td class="tg-baqh">16:15 - 17:30</td>
-    <td class="tg-baqh">Technical session: Virtualization and wireless</td>
+    <td class="tg-baqh">Technical session: Virtualization and wireless<br>Session chair: Tobias Hossfeld</td>
   </tr>
   <tr>
     <td class="tg-cmwg">19:00</td>
@@ -121,7 +121,7 @@ Session chair: **Tobias Hossfeld**
   </tr>
   <tr>
     <td class="tg-baqh">10:30 - 12:15</td>
-    <td class="tg-baqh">Invited session: What's new in COMNET</td>
+    <td class="tg-baqh">Invited session: What's new in COMNET?<br>Session chair: Marco Ajmone Marsan</td>
   </tr>
   <tr>
     <td class="tg-cmwg">12:15 - 13:45</td>
@@ -129,7 +129,7 @@ Session chair: **Tobias Hossfeld**
   </tr>
   <tr>
     <td class="tg-baqh">13:45 - 15:00</td>
-    <td class="tg-baqh">Technical session: Traffic-related topics</td>
+    <td class="tg-baqh">Technical session: Traffic-related topics<br>Session chair: Emilio Leonardi</td>
   </tr>
   <tr>
     <td class="tg-baqh">15:00 - 16:00</td>
@@ -153,7 +153,7 @@ Session chair: **Tobias Hossfeld**
 <br>
 
 **Invited session: What's new in COMNET? (10:30-12:15)** <br>
-Session chair: **Marco Ajmone Marsan****
+Session chair: **Marco Ajmone Marsan**
   - **Daniele Bringhenti**, Riccardo Sisto, Fulvio Valenza, "A novel abstraction for security configuration in virtual networks", Computer Networks, Volume 228, Article 109745, June 2023.
   - **Sebastian Troia**, Marco Savi, Giulia Nava, Ligia Maria Moreira Zorello, Thomas Schneider, and Guido Maier, "Performance characterization and profiling of chained CPU-bound Virtual Network Functions", Computer Networks, Volume 231, Article 109815, July 2023.
   - Afonso Oliveira and **Teresa Vazão**, "Towards green machine learning for resource allocation in beyond 5G RAN slicing", Computer Networks, Volume 233, Article 109877, September 2023.
@@ -196,7 +196,7 @@ Session chair: **Emilio Leonardi**
   </tr>
   <tr>
     <td class="tg-wp8o">10:30 - 12:15</td>
-    <td class="tg-wp8o">Invited session: What's new in PEVA</td>
+    <td class="tg-wp8o">Invited session: What's new in PEVA?<br>Session chair: Sara Alouf</td>
   </tr>
   <tr>
     <td class="tg-r31r">12:15 - 13:45</td>
@@ -204,7 +204,7 @@ Session chair: **Emilio Leonardi**
   </tr>
   <tr>
     <td class="tg-wp8o">13:45 - 15:00</td>
-    <td class="tg-wp8o">Technical Session: Learning and its applications</td>
+    <td class="tg-wp8o">Technical Session: Learning and its applications<br>Session chair: Greta Vallero</td>
   </tr>
   <tr>
     <td class="tg-wp8o">15:00 - 15:30</td>
