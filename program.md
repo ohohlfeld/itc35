@@ -113,7 +113,7 @@ Session chair: **Tobias Hossfeld**
 <tbody>
   <tr>
     <td class="tg-baqh">9:00 - 10:00</td>
-    <td class="tg-baqh">Keynote by Prof. Nicola Blefari-Melazzi: The age of fragmentation (or the end of the Internet as we knew it)</td>
+    <td class="tg-baqh">Keynote by Prof. Nicola Blefari-Melazzi:<br>The age of fragmentation (or the end of the Internet as we knew it)</td>
   </tr>
   <tr>
     <td class="tg-cmwg">10:00 - 10:30</td>
