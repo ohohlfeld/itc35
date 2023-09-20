@@ -77,7 +77,7 @@ Session chair: **Daniela Renga**
   - Optimizing Peak Age of Information in Mobile Edge Computing. Authors: Jianhang Zhu, **Jie Gong** (Sun Yat-Sen University)
   - Spatial Queues with Nearest Neighbour Shifts. Authors: **Vinay Kumar Bindiganavile Ramadas** (INRIA Sophia Antipolis)
 
-**Invited session : What's new in TOMPECS (14:00-15:45)** <br>
+**Invited session : What's new in TOMPECS? (14:00-15:45)** <br>
 Session chair: **Thomas Zinner**
   - Thomas Tournaire, **Hind Castel**, and Emmanuel Hyon, "Efficient Computation of Optimal Thresholds in Cloud Auto-scaling Systems", ACM Transactions on Modeling and Performance Evaluation of Computing Systems, Volume 8, Issue 4, Article No.: 9, December 2023.
   - **Tareq Si Salem**, Giovanni Neglia, Stratis Ioannidis, "No-regret Caching via Online Mirror Descent", ACM Transactions on Modeling and Performance Evaluation of Computing Systems, Volume 8, Issue 4, Article No.: 11, December 2023.
@@ -152,7 +152,7 @@ Session chair: **Tobias Hossfeld**
 </div>
 <br>
 
-**Invited session: What's new in COMNET (10:30-12:15)** <br>
+**Invited session: What's new in COMNET? (10:30-12:15)** <br>
 Session chair: **Marco Ajmone Marsan****
   - **Daniele Bringhenti**, Riccardo Sisto, Fulvio Valenza, "A novel abstraction for security configuration in virtual networks", Computer Networks, Volume 228, Article 109745, June 2023.
   - **Sebastian Troia**, Marco Savi, Giulia Nava, Ligia Maria Moreira Zorello, Thomas Schneider, and Guido Maier, "Performance characterization and profiling of chained CPU-bound Virtual Network Functions", Computer Networks, Volume 231, Article 109815, July 2023.
@@ -215,7 +215,7 @@ Session chair: **Emilio Leonardi**
 </div>
 <br>
 
-**Invited session: What's new in PEVA (10:30-12:15)** <br>
+**Invited session: What's new in PEVA? (10:30-12:15)** <br>
 Session chair: **Sara Alouf**
   - **Nikhil Jha**, Luca Vassio, Martino Trevisan, Emilio Leonardi, Marco Mellia, "Practical anonymization for data streams: z-anonymity and relation with k-anonymity", Performance Evaluation, Volume 159, Article 102329, January 2023.
   - **Thi Thuy Nga Nguyen**, Olivier Brun, and Balakrishna J. Prabhu, "A learning-based scheme for channel allocation to vehicular users in wireless networks", Performance Evaluation, Volume 159, Article 102331, January 2023.
