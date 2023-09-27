@@ -228,7 +228,7 @@ Session chair: **Greta Vallero**
   - Data-Heterogeneous Hierarchical Federated Learning with Mobility. Authors: **Tan Chen**, Jintao Yan (Tsinghua University); Yuxuan Sun (Beijing Jiaotong University); Sheng Zhou (Tsinghua University); Deniz Gunduz (Imperial College London); Zhisheng Niu (Tsinghua University)
 
 ## PHD WORKSHOP
-**LONG PRESENTATIONS (~20 min, associated with a paper in the ITC proceedings)**
+**LONG PRESENTATIONS (~20 min)**
 
 Title: **Enhancing Quality of Service in SD-WAN through Reinforcement Learning-based TCP Congestion Control**<br>
 Authors: Luca Borgianni, Davide Adami, Stefano Giordano
