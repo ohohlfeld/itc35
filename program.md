@@ -233,7 +233,7 @@ Session chair: **Greta Vallero**
 Title: **Enhancing Quality of Service in SD-WAN through Reinforcement Learning-based TCP Congestion Control**
 Authors: Luca Borgianni1, Davide Adami2, Stefano Giordano1
 
-Title:** Towards the Modelling of Network Fate: the Utilization of Packet-level Information**
+Title: **Towards the Modelling of Network Fate: the Utilization of Packet-level Information**
 Authors: Tailai Song, Gianluca Perna, Paolo Garza, Michela Meo, Maurizio Matteo Munafò
 
 Title: **Analysis of the Multiserver Job Queueing Model**
