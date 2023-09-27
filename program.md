@@ -227,6 +227,40 @@ Session chair: **Greta Vallero**
   - Beyond Mean: Spatio-Temporal Modeling of Queue Utilizations and Flow Latencies Using T-GNNs. Authors: **Max Helm**, Benedikt Jaeger, Christopher Pfefferle, Georg Carle (Technical University of Munich)
   - Data-Heterogeneous Hierarchical Federated Learning with Mobility. Authors: **Tan Chen**, Jintao Yan (Tsinghua University); Yuxuan Sun (Beijing Jiaotong University); Sheng Zhou (Tsinghua University); Deniz Gunduz (Imperial College London); Zhisheng Niu (Tsinghua University)
 
+## PHD WORKSHOP
+**LONG PRESENTATIONS (~20 min, associated with a paper in the ITC proceedings)**
+
+Title: **Enhancing Quality of Service in SD-WAN through Reinforcement Learning-based TCP Congestion Control**
+Authors: Luca Borgianni1, Davide Adami2, Stefano Giordano1
+
+Title:** Towards the Modelling of Network Fate: the Utilization of Packet-level Information**
+Authors: Tailai Song, Gianluca Perna, Paolo Garza, Michela Meo, Maurizio Matteo Munafò
+
+Title: **Analysis of the Multiserver Job Queueing Model**
+Authors: Diletta Olliaro∗, Andrea Marin†
+
+Title: **A Novel Queuing Theory Approach for Modeling Connected Automated Vehicles as Traffic Sources**
+Authors: Maria Luisa Merani, Mattia Andreani, Andra ́s Horvath, Matteo Sereno
+
+Title: **AoI Analysis in 5G NR-V2X Sidelink: Optimal Persistence and Channel Load**
+Authors: Alexey Rolich, Andrea Baiocchi
+
+Title: **Secure and reliable softwarization in the context of 5G and beyond**
+Authors: Sebastian Gilje Grøsvik, Thomas Zinner
+
+Title: **Performance evaluation and capacity analysis of a cellular network with retransmission policy**
+Authors: Ingemar Kaj, Taisiia Morozova
+
+
+
+**SHORT PRESENTATIONS (~10 min)**
+
+Title: **Competition of Influencers: A Model for Maximizing Online Social Impact**
+Franco Galante, Michele Garetto, Emilio Leonardi
+
+Title: **Q-Learning based low spectral efficiency random access**
+Asmad Bin Abdul Razzaque, Andrea Baiocchi
+
 
 ## SOCIAL EVENT
 
