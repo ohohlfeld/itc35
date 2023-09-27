@@ -230,35 +230,35 @@ Session chair: **Greta Vallero**
 ## PHD WORKSHOP
 **LONG PRESENTATIONS (~20 min, associated with a paper in the ITC proceedings)**
 
-Title: **Enhancing Quality of Service in SD-WAN through Reinforcement Learning-based TCP Congestion Control**
+Title: **Enhancing Quality of Service in SD-WAN through Reinforcement Learning-based TCP Congestion Control**<br>
 Authors: Luca Borgianni1, Davide Adami2, Stefano Giordano1
 
-Title: **Towards the Modelling of Network Fate: the Utilization of Packet-level Information**
+Title: **Towards the Modelling of Network Fate: the Utilization of Packet-level Information**<br>
 Authors: Tailai Song, Gianluca Perna, Paolo Garza, Michela Meo, Maurizio Matteo Munafò
 
-Title: **Analysis of the Multiserver Job Queueing Model**
+Title: **Analysis of the Multiserver Job Queueing Model**<br>
 Authors: Diletta Olliaro∗, Andrea Marin†
 
-Title: **A Novel Queuing Theory Approach for Modeling Connected Automated Vehicles as Traffic Sources**
+Title: **A Novel Queuing Theory Approach for Modeling Connected Automated Vehicles as Traffic Sources**<br>
 Authors: Maria Luisa Merani, Mattia Andreani, Andra ́s Horvath, Matteo Sereno
 
-Title: **AoI Analysis in 5G NR-V2X Sidelink: Optimal Persistence and Channel Load**
+Title: **AoI Analysis in 5G NR-V2X Sidelink: Optimal Persistence and Channel Load**<br>
 Authors: Alexey Rolich, Andrea Baiocchi
 
-Title: **Secure and reliable softwarization in the context of 5G and beyond**
+Title: **Secure and reliable softwarization in the context of 5G and beyond**<br>
 Authors: Sebastian Gilje Grøsvik, Thomas Zinner
 
-Title: **Performance evaluation and capacity analysis of a cellular network with retransmission policy**
+Title: **Performance evaluation and capacity analysis of a cellular network with retransmission policy**<br>
 Authors: Ingemar Kaj, Taisiia Morozova
 
 
 
 **SHORT PRESENTATIONS (~10 min)**
 
-Title: **Competition of Influencers: A Model for Maximizing Online Social Impact**
+Title: **Competition of Influencers: A Model for Maximizing Online Social Impact**<br>
 Franco Galante, Michele Garetto, Emilio Leonardi
 
-Title: **Q-Learning based low spectral efficiency random access**
+Title: **Q-Learning based low spectral efficiency random access**<br>
 Asmad Bin Abdul Razzaque, Andrea Baiocchi
 
 
