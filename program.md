@@ -231,13 +231,13 @@ Session chair: **Greta Vallero**
 **LONG PRESENTATIONS (~20 min, associated with a paper in the ITC proceedings)**
 
 Title: **Enhancing Quality of Service in SD-WAN through Reinforcement Learning-based TCP Congestion Control**<br>
-Authors: Luca Borgianni1, Davide Adami2, Stefano Giordano1
+Authors: Luca Borgianni, Davide Adami, Stefano Giordano
 
 Title: **Towards the Modelling of Network Fate: the Utilization of Packet-level Information**<br>
 Authors: Tailai Song, Gianluca Perna, Paolo Garza, Michela Meo, Maurizio Matteo Munafò
 
 Title: **Analysis of the Multiserver Job Queueing Model**<br>
-Authors: Diletta Olliaro∗, Andrea Marin†
+Authors: Diletta Olliaro, Andrea Marin
 
 Title: **A Novel Queuing Theory Approach for Modeling Connected Automated Vehicles as Traffic Sources**<br>
 Authors: Maria Luisa Merani, Mattia Andreani, Andra ́s Horvath, Matteo Sereno
