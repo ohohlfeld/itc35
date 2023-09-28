@@ -259,7 +259,7 @@ Title: **Competition of Influencers: A Model for Maximizing Online Social Impact
 Franco Galante, Michele Garetto, Emilio Leonardi
 
 Title: **Q-Learning based low spectral efficiency random access**<br>
-Asmad Bin Abdul Razzaque, Andrea Baiocchi
+Asmad Bin Abdul Razzaque
 
 
 ## SOCIAL EVENT
