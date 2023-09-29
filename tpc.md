@@ -66,4 +66,7 @@ menu-index: 6
 * **Xingyu Zhou**, Wayne State University
 * **Quanyan Zhu**, New York University
 * **Thomas Zinner**, NTNU
+* **Paolo Bellavista**, University of Bologna, Italy
+* **Prosper Chemouil**, France
+* **Michela Meo**, Politecnico di Torino, Italy
 
