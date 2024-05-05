@@ -1,5 +1,5 @@
 ---
-title: keynote
+title: Keynote
 menu: top-nav
 menu-index: 1
 ---
