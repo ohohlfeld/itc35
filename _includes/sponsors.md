@@ -3,3 +3,6 @@
 <img src="assets/images/sponsors/IEEE-comsoc.gif" alt="IEEE Communications Society">
 
 ![IEEE Communications Society](assets/images/sponsors/IEEE-comsoc.gif "IEEE Communications Society")
+
+
+[<img src="assets/images/sponsors/IEEE-comsoc.gif">](https://www.comsoc.org/),
